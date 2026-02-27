@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+akshare
+ta-lib
+adata
+notebooklm-py
+pyarrow>=15.0.0
+google-generativeai

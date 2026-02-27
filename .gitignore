@@ -1,0 +1,25 @@
+# Market Data
+data/market_data/*.csv
+data/stock_list.csv
+data/signal_cache/
+
+# User Private Data
+data/trading_data.json
+*.json
+*.csv
+!requirements.txt
+
+# Streamlit logs and secrets
+streamlit.log
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
