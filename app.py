@@ -221,22 +221,51 @@ with st.sidebar.expander("📊 数据状态 (Data Status)", expanded=True):
         # 1. Check Stock List
         if not os.path.exists(list_path):
             status_container.write("正在获取全市场股票列表...")
-            try:
-                import akshare as ak
-                stock_df = ak.stock_zh_a_spot_em()
-                stock_df = stock_df[['代码', '名称']]
-                stock_df.columns = ['code', 'name']
-                
-                # --- Filter Logic (Exclude ST/KC/BJ) ---
-                # 1. Exclude Beijing (8xxx, 4xxx) & Sci-Tech (688)
-                stock_df = stock_df[~stock_df['code'].astype(str).str.startswith(('8', '4', '688'))]
-                # 2. Exclude ST
-                stock_df = stock_df[~stock_df['name'].str.contains('ST')]
-                
-                stock_df.to_csv(list_path, index=False)
-                status_container.write(f"已创建股票列表 (剔除ST/科创/北交): {len(stock_df)} 只")
-            except Exception as e:
-                status_container.error(f"获取股票列表失败: {e}")
+            
+            stock_df = pd.DataFrame()
+            max_retries = 3
+            import akshare as ak
+            import time
+            
+            for i in range(max_retries):
+                try:
+                    # Try primary method
+                    stock_df = ak.stock_zh_a_spot_em()
+                    if not stock_df.empty: break
+                except Exception as e:
+                    status_container.warning(f"尝试 {i+1}/{max_retries} 失败: {e}")
+                    time.sleep(2)
+            
+            # Fallback if primary failed
+            if stock_df.empty:
+                status_container.write("主方法失败，正尝试备用方案...")
+                try:
+                    stock_df = ak.stock_info_a_code_name()
+                except Exception as e:
+                    status_container.error(f"备用方案获取股票列表也已失败: {e}")
+                    st.stop()
+            
+            if not stock_df.empty:
+                try:
+                    # Standardize columns based on which method worked
+                    if '代码' in stock_df.columns:
+                        stock_df = stock_df[['代码', '名称']]
+                        stock_df.columns = ['code', 'name']
+                    elif 'code' in stock_df.columns: # fallback output might have different names
+                        stock_df = stock_df[['code', 'name']]
+
+                    # --- Filter Logic (Exclude ST/KC/BJ) ---
+                    # 1. Exclude Beijing (8xxx, 4xxx) & Sci-Tech (688)
+                    stock_df = stock_df[~stock_df['code'].astype(str).str.startswith(('8', '4', '688', '43', '83', '87', '88'))]
+                    # 2. Exclude ST
+                    stock_df = stock_df[~stock_df['name'].str.contains('ST')]
+                    
+                    stock_df.to_csv(list_path, index=False)
+                    status_container.write(f"已创建股票列表 (剔除ST/科创/北交): {len(stock_df)} 只")
+                except Exception as e:
+                    status_container.error(f"处理数据失败: {e}")
+                    st.stop()
+            else:
                 st.stop()
         else:
             stock_df = pd.read_csv(list_path, dtype={'code': str})
