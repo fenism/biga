@@ -223,33 +223,35 @@ class TradingManager:
         target_1_1 = signal_high + risk_diff
         target_2_1 = signal_high + (2 * risk_diff)
 
+        indicators = f"- 现价: {last['close']:.2f}, MA20: {last.get('MA20',0):.2f}, EMA200: {last.get('EMA200',0):.2f}\n- 成交量: {last['volume']:.0f}, Vol_MA20: {last.get('Vol_MA20',0):.0f}"
+
         prompt = f"""你是一个严格遵循 Royal 交易体系的A股交易员。请根据以下SOP规则和股票数据，对自选股 [{code}] {name} 进行**建仓评估**。
-
-### Royal 交易执行 SOP
-{sop_text}
-
-### 【核心事实数据】 (禁止AI自行计算，必须以此为准)
-1. **当前价格**: {last['close']:.2f} 元
-2. **参照点 (信号日最高价)**: {signal_high:.2f} 元
-3. **初始止损位 (信号日最低价)**: {signal_low:.2f} 元
-4. **单股风险距离**: {risk_diff:.2f} 元 ({risk_pct:.1f}%)
-5. **基于2%风险原则的建议买入股数**: {suggested_qty} 股
-6. **SOP 目标位**:
-   - 保本位 (1:1): {target_1_1:.2f} 元
-   - 减仓位 (2:1): {target_2_1:.2f} 元
-
-### 信号信息
-- **信号日期**: {signal_date}
-- **触发策略**: {strategies}
-
-### 近5日行情
-{recent_data}
-
-### 最新技术指标
-{indicators}
-
-### 最新量化信号
-{', '.join(active_sigs) if active_sigs else '无'}
+ 
+ ### Royal 交易执行 SOP
+ {sop_text}
+ 
+ ### 【核心事实数据】 (禁止AI自行计算，必须以此为准)
+ 1. **当前价格**: {last['close']:.2f} 元
+ 2. **参照点 (信号日最高价)**: {signal_high:.2f} 元
+ 3. **初始止损位 (信号日最低价)**: {signal_low:.2f} 元
+ 4. **单股风险距离**: {risk_diff:.2f} 元 ({risk_pct:.1f}%)
+ 5. **基于2%风险原则的建议买入股数**: {suggested_qty} 股
+ 6. **SOP 目标位**:
+    - 保本位 (1:1): {target_1_1:.2f} 元
+    - 减仓位 (2:1): {target_2_1:.2f} 元
+ 
+ ### 信号信息
+ - **信号日期**: {signal_date}
+ - **触发策略**: {strategies}
+ 
+ ### 近5日行情
+ {recent_data}
+ 
+ ### 最新技术指标
+ {indicators}
+ 
+ ### 最新量化信号
+ {', '.join(active_sigs) if active_sigs else '无'}
 
 ### 分析要求（严格按SOP执行）
 请依次完成以下分析，并**引用上述【核心事实数据】中的准确数值**，禁止幻觉：
