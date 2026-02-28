@@ -18,9 +18,9 @@ echo ">>> Starting new container..."
 docker run -d \
     --name $APP_NAME \
     --restart unless-stopped \
-    -p 8501:8501 \
+    -p 8080:8080 \
     -v $DATA_DIR:/app/data/market_data \
     $APP_NAME
 
-echo ">>> Deployment complete. Service running on port 8501."
+echo ">>> Deployment complete. Service running on port 8080."
 echo ">>> Data persisted in $DATA_DIR"

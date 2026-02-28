@@ -32,14 +32,14 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 # Copy the rest of the application
 COPY . .
 
-# Expose Streamlit port
-EXPOSE 8501
+# Expose default port (8080 for Cloud Run, 8501 for local/GCE)
+EXPOSE 8080
 
-# Create volume for data persistence
+# Create volume for data persistence (Note: Cloud Run is stateless, volume will be empty on each request unless using Cloud Storage FUSE)
 VOLUME ["/app/data/market_data"]
 
 # Healthcheck
-HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
+HEALTHCHECK CMD curl --fail http://localhost:8080/_stcore/health
 
-# Entrypoint
-ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Entrypoint - using sh -c to expand $PORT
+ENTRYPOINT ["sh", "-c", "streamlit run app.py --server.port=${PORT:-8080} --server.address=0.0.0.0"]
