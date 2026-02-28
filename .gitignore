@@ -6,7 +6,10 @@ data/signal_cache/
 # User Private Data
 data/trading_data.json
 *.json
+!optimization_results.json
+!backtest_results_2years.json
 *.csv
+!stock_list.csv
 !requirements.txt
 
 # Streamlit logs and secrets

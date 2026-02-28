@@ -1,0 +1,4074 @@
+[
+    {
+        "Strategy":"Fighting",
+        "Return (%)":-22.07,
+        "Win Rate (%)":29.03,
+        "Trades":496,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":77933.64
+    },
+    {
+        "Strategy":"DTR_Plus",
+        "Return (%)":-15.54,
+        "Win Rate (%)":28.28,
+        "Trades":534,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":84461.39
+    },
+    {
+        "Strategy":"Z_Score",
+        "Return (%)":-39.57,
+        "Win Rate (%)":28.52,
+        "Trades":540,
+        "Max Drawdown (%)":-40.24,
+        "Final Equity":60434.86
+    },
+    {
+        "Strategy":"UA",
+        "Return (%)":-16.85,
+        "Win Rate (%)":20.83,
+        "Trades":192,
+        "Max Drawdown (%)":-27.22,
+        "Final Equity":83152.31
+    },
+    {
+        "Strategy":"RS",
+        "Return (%)":-41.71,
+        "Win Rate (%)":26.74,
+        "Trades":531,
+        "Max Drawdown (%)":-44.89,
+        "Final Equity":58293.04
+    },
+    {
+        "Strategy":"LCS",
+        "Return (%)":-18.76,
+        "Win Rate (%)":24.27,
+        "Trades":103,
+        "Max Drawdown (%)":-25.63,
+        "Final Equity":81235.17
+    },
+    {
+        "Strategy":"OBO",
+        "Return (%)":5.46,
+        "Win Rate (%)":30.72,
+        "Trades":153,
+        "Max Drawdown (%)":-12.05,
+        "Final Equity":105458.44
+    },
+    {
+        "Strategy":"HLP3",
+        "Return (%)":-13.26,
+        "Win Rate (%)":23.83,
+        "Trades":235,
+        "Max Drawdown (%)":-17.89,
+        "Final Equity":86740.16
+    },
+    {
+        "Strategy":"HMC",
+        "Return (%)":-41.9,
+        "Win Rate (%)":24.41,
+        "Trades":512,
+        "Max Drawdown (%)":-45.21,
+        "Final Equity":58104.41
+    },
+    {
+        "Strategy":"TKOS",
+        "Return (%)":-6.94,
+        "Win Rate (%)":23.08,
+        "Trades":65,
+        "Max Drawdown (%)":-11.78,
+        "Final Equity":93056.35
+    },
+    {
+        "Strategy":"Limit",
+        "Return (%)":-28.26,
+        "Win Rate (%)":27.04,
+        "Trades":810,
+        "Max Drawdown (%)":-40.79,
+        "Final Equity":71737.74
+    },
+    {
+        "Strategy":"Pinbar",
+        "Return (%)":-33.75,
+        "Win Rate (%)":29.69,
+        "Trades":980,
+        "Max Drawdown (%)":-41.39,
+        "Final Equity":66247.73
+    },
+    {
+        "Strategy":"Money_Flow",
+        "Return (%)":-3.43,
+        "Win Rate (%)":22.77,
+        "Trades":101,
+        "Max Drawdown (%)":-8.17,
+        "Final Equity":96568.34
+    },
+    {
+        "Strategy":"UA_Weak",
+        "Return (%)":-31.32,
+        "Win Rate (%)":24.38,
+        "Trades":242,
+        "Max Drawdown (%)":-32.75,
+        "Final Equity":68683.95
+    },
+    {
+        "Strategy":"Z_Score + RS",
+        "Return (%)":-28.24,
+        "Win Rate (%)":27.59,
+        "Trades":569,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":71761.48
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus",
+        "Return (%)":-18.42,
+        "Win Rate (%)":27.45,
+        "Trades":470,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":81582.13
+    },
+    {
+        "Strategy":"Spring",
+        "Return (%)":-5.56,
+        "Win Rate (%)":29.06,
+        "Trades":437,
+        "Max Drawdown (%)":-10.17,
+        "Final Equity":94439.31
+    },
+    {
+        "Strategy":"Z_Score + TKOS",
+        "Return (%)":-31.97,
+        "Win Rate (%)":27.57,
+        "Trades":573,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":68029.03
+    },
+    {
+        "Strategy":"Z_Score + Fighting",
+        "Return (%)":-18.24,
+        "Win Rate (%)":27.99,
+        "Trades":493,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":81763.36
+    },
+    {
+        "Strategy":"Z_Score + UA",
+        "Return (%)":-34.07,
+        "Win Rate (%)":28.16,
+        "Trades":522,
+        "Max Drawdown (%)":-35.41,
+        "Final Equity":65933.15
+    },
+    {
+        "Strategy":"Z_Score + HMC",
+        "Return (%)":-25.17,
+        "Win Rate (%)":27.48,
+        "Trades":484,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":74834.13
+    },
+    {
+        "Strategy":"Z_Score + OBO",
+        "Return (%)":-22.67,
+        "Win Rate (%)":28.57,
+        "Trades":483,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":77331.59
+    },
+    {
+        "Strategy":"Z_Score + LCS",
+        "Return (%)":-29.14,
+        "Win Rate (%)":27.9,
+        "Trades":491,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":70860.36
+    },
+    {
+        "Strategy":"RS + DTR_Plus",
+        "Return (%)":-15.67,
+        "Win Rate (%)":28.0,
+        "Trades":450,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":84330.44
+    },
+    {
+        "Strategy":"RS + Fighting",
+        "Return (%)":-3.11,
+        "Win Rate (%)":29.81,
+        "Trades":483,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":96887.08
+    },
+    {
+        "Strategy":"RS + TKOS",
+        "Return (%)":-35.74,
+        "Win Rate (%)":25.93,
+        "Trades":540,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":64259.56
+    },
+    {
+        "Strategy":"RS + UA",
+        "Return (%)":-53.65,
+        "Win Rate (%)":26.42,
+        "Trades":564,
+        "Max Drawdown (%)":-54.15,
+        "Final Equity":46345.98
+    },
+    {
+        "Strategy":"RS + HMC",
+        "Return (%)":-23.83,
+        "Win Rate (%)":26.61,
+        "Trades":575,
+        "Max Drawdown (%)":-41.02,
+        "Final Equity":76165.39
+    },
+    {
+        "Strategy":"RS + LCS",
+        "Return (%)":-55.01,
+        "Win Rate (%)":26.25,
+        "Trades":518,
+        "Max Drawdown (%)":-55.62,
+        "Final Equity":44992.93
+    },
+    {
+        "Strategy":"RS + OBO",
+        "Return (%)":-42.97,
+        "Win Rate (%)":26.6,
+        "Trades":530,
+        "Max Drawdown (%)":-45.82,
+        "Final Equity":57031.0
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus",
+        "Return (%)":-25.45,
+        "Win Rate (%)":27.99,
+        "Trades":518,
+        "Max Drawdown (%)":-28.88,
+        "Final Equity":74550.67
+    },
+    {
+        "Strategy":"TKOS + Fighting",
+        "Return (%)":-33.89,
+        "Win Rate (%)":28.16,
+        "Trades":522,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":66109.66
+    },
+    {
+        "Strategy":"RSI_Rev",
+        "Return (%)":-19.35,
+        "Win Rate (%)":30.16,
+        "Trades":852,
+        "Max Drawdown (%)":-23.99,
+        "Final Equity":80652.06
+    },
+    {
+        "Strategy":"TKOS + UA",
+        "Return (%)":-14.86,
+        "Win Rate (%)":23.2,
+        "Trades":250,
+        "Max Drawdown (%)":-28.89,
+        "Final Equity":85143.51
+    },
+    {
+        "Strategy":"Double_Vol",
+        "Return (%)":-66.52,
+        "Win Rate (%)":26.2,
+        "Trades":790,
+        "Max Drawdown (%)":-71.0,
+        "Final Equity":33481.44
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting",
+        "Return (%)":-18.67,
+        "Win Rate (%)":28.45,
+        "Trades":471,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":81328.6
+    },
+    {
+        "Strategy":"DTR_Plus + UA",
+        "Return (%)":-14.13,
+        "Win Rate (%)":28.01,
+        "Trades":532,
+        "Max Drawdown (%)":-27.68,
+        "Final Equity":85872.26
+    },
+    {
+        "Strategy":"TKOS + HMC",
+        "Return (%)":-36.53,
+        "Win Rate (%)":24.92,
+        "Trades":622,
+        "Max Drawdown (%)":-44.03,
+        "Final Equity":63471.21
+    },
+    {
+        "Strategy":"TKOS + OBO",
+        "Return (%)":-0.57,
+        "Win Rate (%)":26.7,
+        "Trades":206,
+        "Max Drawdown (%)":-14.24,
+        "Final Equity":99428.61
+    },
+    {
+        "Strategy":"TKOS + LCS",
+        "Return (%)":-22.16,
+        "Win Rate (%)":24.38,
+        "Trades":160,
+        "Max Drawdown (%)":-26.93,
+        "Final Equity":77838.82
+    },
+    {
+        "Strategy":"DTR_Plus + OBO",
+        "Return (%)":-10.49,
+        "Win Rate (%)":28.54,
+        "Trades":529,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":89506.28
+    },
+    {
+        "Strategy":"DTR_Plus + HMC",
+        "Return (%)":-30.19,
+        "Win Rate (%)":26.48,
+        "Trades":457,
+        "Max Drawdown (%)":-32.72,
+        "Final Equity":69805.86
+    },
+    {
+        "Strategy":"DTR_Plus + LCS",
+        "Return (%)":-12.93,
+        "Win Rate (%)":28.22,
+        "Trades":528,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":87069.87
+    },
+    {
+        "Strategy":"Fighting + UA",
+        "Return (%)":-15.12,
+        "Win Rate (%)":29.64,
+        "Trades":506,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":84883.94
+    },
+    {
+        "Strategy":"Fighting + HMC",
+        "Return (%)":-39.22,
+        "Win Rate (%)":25.67,
+        "Trades":483,
+        "Max Drawdown (%)":-39.39,
+        "Final Equity":60776.1
+    },
+    {
+        "Strategy":"Fighting + OBO",
+        "Return (%)":-9.56,
+        "Win Rate (%)":29.59,
+        "Trades":507,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":90443.21
+    },
+    {
+        "Strategy":"UA + OBO",
+        "Return (%)":20.9,
+        "Win Rate (%)":34.97,
+        "Trades":143,
+        "Max Drawdown (%)":-8.3,
+        "Final Equity":120897.81
+    },
+    {
+        "Strategy":"Fighting + LCS",
+        "Return (%)":-17.56,
+        "Win Rate (%)":28.95,
+        "Trades":487,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":82441.32
+    },
+    {
+        "Strategy":"UA + LCS",
+        "Return (%)":-14.83,
+        "Win Rate (%)":25.0,
+        "Trades":104,
+        "Max Drawdown (%)":-21.53,
+        "Final Equity":85173.49
+    },
+    {
+        "Strategy":"UA + HMC",
+        "Return (%)":-35.48,
+        "Win Rate (%)":25.05,
+        "Trades":507,
+        "Max Drawdown (%)":-43.95,
+        "Final Equity":64517.05
+    },
+    {
+        "Strategy":"OBO + LCS",
+        "Return (%)":-5.93,
+        "Win Rate (%)":30.19,
+        "Trades":159,
+        "Max Drawdown (%)":-14.67,
+        "Final Equity":94067.19
+    },
+    {
+        "Strategy":"HMC + OBO",
+        "Return (%)":-32.02,
+        "Win Rate (%)":25.31,
+        "Trades":490,
+        "Max Drawdown (%)":-38.92,
+        "Final Equity":67983.12
+    },
+    {
+        "Strategy":"HMC + LCS",
+        "Return (%)":-40.07,
+        "Win Rate (%)":24.79,
+        "Trades":468,
+        "Max Drawdown (%)":-41.77,
+        "Final Equity":59929.2
+    },
+    {
+        "Strategy":"HLP3 + Limit",
+        "Return (%)":-29.05,
+        "Win Rate (%)":27.56,
+        "Trades":820,
+        "Max Drawdown (%)":-41.12,
+        "Final Equity":70954.68
+    },
+    {
+        "Strategy":"HLP3 + Pinbar",
+        "Return (%)":-36.75,
+        "Win Rate (%)":28.11,
+        "Trades":957,
+        "Max Drawdown (%)":-43.64,
+        "Final Equity":63252.79
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow",
+        "Return (%)":-11.88,
+        "Win Rate (%)":24.28,
+        "Trades":313,
+        "Max Drawdown (%)":-18.09,
+        "Final Equity":88116.43
+    },
+    {
+        "Strategy":"HLP3 + UA_Weak",
+        "Return (%)":-26.63,
+        "Win Rate (%)":25.28,
+        "Trades":360,
+        "Max Drawdown (%)":-31.35,
+        "Final Equity":73371.25
+    },
+    {
+        "Strategy":"HLP3 + Limit_Open",
+        "Return (%)":-13.26,
+        "Win Rate (%)":23.83,
+        "Trades":235,
+        "Max Drawdown (%)":-17.89,
+        "Final Equity":86740.16
+    },
+    {
+        "Strategy":"HLP3 + Spring",
+        "Return (%)":-23.76,
+        "Win Rate (%)":26.17,
+        "Trades":493,
+        "Max Drawdown (%)":-25.23,
+        "Final Equity":76239.47
+    },
+    {
+        "Strategy":"Limit + Spring",
+        "Return (%)":-29.25,
+        "Win Rate (%)":26.76,
+        "Trades":826,
+        "Max Drawdown (%)":-42.57,
+        "Final Equity":70748.61
+    },
+    {
+        "Strategy":"Limit + Money_Flow",
+        "Return (%)":-24.82,
+        "Win Rate (%)":27.88,
+        "Trades":832,
+        "Max Drawdown (%)":-41.48,
+        "Final Equity":75182.56
+    },
+    {
+        "Strategy":"Limit + RSI_Rev",
+        "Return (%)":-26.14,
+        "Win Rate (%)":27.06,
+        "Trades":839,
+        "Max Drawdown (%)":-41.21,
+        "Final Equity":73864.84
+    },
+    {
+        "Strategy":"Limit + Pinbar",
+        "Return (%)":-55.56,
+        "Win Rate (%)":26.02,
+        "Trades":880,
+        "Max Drawdown (%)":-61.37,
+        "Final Equity":44438.7
+    },
+    {
+        "Strategy":"Limit + UA_Weak",
+        "Return (%)":-29.1,
+        "Win Rate (%)":26.78,
+        "Trades":799,
+        "Max Drawdown (%)":-45.31,
+        "Final Equity":70903.93
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev",
+        "Return (%)":-28.69,
+        "Win Rate (%)":28.26,
+        "Trades":821,
+        "Max Drawdown (%)":-32.81,
+        "Final Equity":71307.21
+    },
+    {
+        "Strategy":"Limit + Limit_Open",
+        "Return (%)":-28.26,
+        "Win Rate (%)":27.04,
+        "Trades":810,
+        "Max Drawdown (%)":-40.79,
+        "Final Equity":71737.74
+    },
+    {
+        "Strategy":"HLP3 + Double_Vol",
+        "Return (%)":-66.0,
+        "Win Rate (%)":26.37,
+        "Trades":785,
+        "Max Drawdown (%)":-70.63,
+        "Final Equity":33995.11
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar",
+        "Return (%)":-45.43,
+        "Win Rate (%)":28.34,
+        "Trades":1069,
+        "Max Drawdown (%)":-53.19,
+        "Final Equity":54565.01
+    },
+    {
+        "Strategy":"Limit + Double_Vol",
+        "Return (%)":-62.87,
+        "Win Rate (%)":26.24,
+        "Trades":804,
+        "Max Drawdown (%)":-67.88,
+        "Final Equity":37133.09
+    },
+    {
+        "Strategy":"RSI_Rev + Spring",
+        "Return (%)":-16.37,
+        "Win Rate (%)":30.53,
+        "Trades":917,
+        "Max Drawdown (%)":-20.16,
+        "Final Equity":83630.09
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow",
+        "Return (%)":-23.68,
+        "Win Rate (%)":28.7,
+        "Trades":857,
+        "Max Drawdown (%)":-29.31,
+        "Final Equity":76317.33
+    },
+    {
+        "Strategy":"Spring + Pinbar",
+        "Return (%)":-46.66,
+        "Win Rate (%)":29.66,
+        "Trades":1008,
+        "Max Drawdown (%)":-52.74,
+        "Final Equity":53343.76
+    },
+    {
+        "Strategy":"RSI_Rev + UA_Weak",
+        "Return (%)":-33.92,
+        "Win Rate (%)":30.11,
+        "Trades":817,
+        "Max Drawdown (%)":-37.71,
+        "Final Equity":66077.67
+    },
+    {
+        "Strategy":"Spring + Money_Flow",
+        "Return (%)":-9.17,
+        "Win Rate (%)":27.95,
+        "Trades":483,
+        "Max Drawdown (%)":-15.38,
+        "Final Equity":90833.77
+    },
+    {
+        "Strategy":"RSI_Rev + Limit_Open",
+        "Return (%)":-19.35,
+        "Win Rate (%)":30.16,
+        "Trades":852,
+        "Max Drawdown (%)":-23.99,
+        "Final Equity":80652.06
+    },
+    {
+        "Strategy":"RSI_Rev + Double_Vol",
+        "Return (%)":-56.08,
+        "Win Rate (%)":26.47,
+        "Trades":865,
+        "Max Drawdown (%)":-61.87,
+        "Final Equity":43919.47
+    },
+    {
+        "Strategy":"Spring + UA_Weak",
+        "Return (%)":-34.12,
+        "Win Rate (%)":27.34,
+        "Trades":512,
+        "Max Drawdown (%)":-37.47,
+        "Final Equity":65876.34
+    },
+    {
+        "Strategy":"Spring + Limit_Open",
+        "Return (%)":-5.56,
+        "Win Rate (%)":29.06,
+        "Trades":437,
+        "Max Drawdown (%)":-10.17,
+        "Final Equity":94439.31
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow",
+        "Return (%)":-35.98,
+        "Win Rate (%)":29.96,
+        "Trades":1008,
+        "Max Drawdown (%)":-43.39,
+        "Final Equity":64019.77
+    },
+    {
+        "Strategy":"Pinbar + UA_Weak",
+        "Return (%)":-32.0,
+        "Win Rate (%)":29.46,
+        "Trades":981,
+        "Max Drawdown (%)":-42.2,
+        "Final Equity":67996.74
+    },
+    {
+        "Strategy":"Pinbar + Limit_Open",
+        "Return (%)":-33.75,
+        "Win Rate (%)":29.69,
+        "Trades":980,
+        "Max Drawdown (%)":-41.39,
+        "Final Equity":66247.73
+    },
+    {
+        "Strategy":"Money_Flow + UA_Weak",
+        "Return (%)":-37.35,
+        "Win Rate (%)":25.62,
+        "Trades":324,
+        "Max Drawdown (%)":-40.02,
+        "Final Equity":62648.59
+    },
+    {
+        "Strategy":"Money_Flow + Limit_Open",
+        "Return (%)":-3.43,
+        "Win Rate (%)":22.77,
+        "Trades":101,
+        "Max Drawdown (%)":-8.17,
+        "Final Equity":96568.34
+    },
+    {
+        "Strategy":"Pinbar + Double_Vol",
+        "Return (%)":-58.03,
+        "Win Rate (%)":26.15,
+        "Trades":780,
+        "Max Drawdown (%)":-64.53,
+        "Final Equity":41966.21
+    },
+    {
+        "Strategy":"UA_Weak + Limit_Open",
+        "Return (%)":-31.32,
+        "Win Rate (%)":24.38,
+        "Trades":242,
+        "Max Drawdown (%)":-32.75,
+        "Final Equity":68683.95
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS",
+        "Return (%)":-28.9,
+        "Win Rate (%)":27.36,
+        "Trades":614,
+        "Max Drawdown (%)":-39.92,
+        "Final Equity":71099.18
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus",
+        "Return (%)":-13.31,
+        "Win Rate (%)":27.7,
+        "Trades":473,
+        "Max Drawdown (%)":-30.76,
+        "Final Equity":86694.73
+    },
+    {
+        "Strategy":"Z_Score + RS + Fighting",
+        "Return (%)":-10.46,
+        "Win Rate (%)":27.53,
+        "Trades":425,
+        "Max Drawdown (%)":-25.09,
+        "Final Equity":89539.43
+    },
+    {
+        "Strategy":"Z_Score + RS + UA",
+        "Return (%)":-31.78,
+        "Win Rate (%)":27.84,
+        "Trades":582,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":68218.06
+    },
+    {
+        "Strategy":"Money_Flow + Double_Vol",
+        "Return (%)":-64.86,
+        "Win Rate (%)":26.3,
+        "Trades":810,
+        "Max Drawdown (%)":-70.2,
+        "Final Equity":35137.26
+    },
+    {
+        "Strategy":"Z_Score + RS + HMC",
+        "Return (%)":-30.7,
+        "Win Rate (%)":26.49,
+        "Trades":521,
+        "Max Drawdown (%)":-37.4,
+        "Final Equity":69298.98
+    },
+    {
+        "Strategy":"Spring + Double_Vol",
+        "Return (%)":-59.32,
+        "Win Rate (%)":25.12,
+        "Trades":816,
+        "Max Drawdown (%)":-65.47,
+        "Final Equity":40675.74
+    },
+    {
+        "Strategy":"Z_Score + RS + OBO",
+        "Return (%)":-28.89,
+        "Win Rate (%)":27.84,
+        "Trades":528,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":71109.25
+    },
+    {
+        "Strategy":"Z_Score + RS + LCS",
+        "Return (%)":-26.82,
+        "Win Rate (%)":28.22,
+        "Trades":528,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":73179.69
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus",
+        "Return (%)":-31.0,
+        "Win Rate (%)":27.93,
+        "Trades":512,
+        "Max Drawdown (%)":-42.27,
+        "Final Equity":69000.66
+    },
+    {
+        "Strategy":"Double_Vol + UA_Weak",
+        "Return (%)":-58.29,
+        "Win Rate (%)":26.26,
+        "Trades":796,
+        "Max Drawdown (%)":-64.34,
+        "Final Equity":41706.03
+    },
+    {
+        "Strategy":"Z_Score + TKOS + Fighting",
+        "Return (%)":-28.76,
+        "Win Rate (%)":27.07,
+        "Trades":532,
+        "Max Drawdown (%)":-34.6,
+        "Final Equity":71240.19
+    },
+    {
+        "Strategy":"Z_Score + TKOS + UA",
+        "Return (%)":-31.63,
+        "Win Rate (%)":27.32,
+        "Trades":571,
+        "Max Drawdown (%)":-37.84,
+        "Final Equity":68367.22
+    },
+    {
+        "Strategy":"Double_Vol + Limit_Open",
+        "Return (%)":-66.52,
+        "Win Rate (%)":26.2,
+        "Trades":790,
+        "Max Drawdown (%)":-71.0,
+        "Final Equity":33481.44
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + Fighting",
+        "Return (%)":-20.99,
+        "Win Rate (%)":27.67,
+        "Trades":477,
+        "Max Drawdown (%)":-27.39,
+        "Final Equity":79009.89
+    },
+    {
+        "Strategy":"Z_Score + TKOS + HMC",
+        "Return (%)":-32.13,
+        "Win Rate (%)":26.25,
+        "Trades":518,
+        "Max Drawdown (%)":-39.59,
+        "Final Equity":67874.68
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + UA",
+        "Return (%)":-19.35,
+        "Win Rate (%)":28.21,
+        "Trades":475,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":80647.71
+    },
+    {
+        "Strategy":"Z_Score + TKOS + OBO",
+        "Return (%)":-30.72,
+        "Win Rate (%)":27.38,
+        "Trades":515,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":69280.45
+    },
+    {
+        "Strategy":"Z_Score + TKOS + LCS",
+        "Return (%)":-33.2,
+        "Win Rate (%)":26.53,
+        "Trades":524,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":66797.91
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + OBO",
+        "Return (%)":-14.47,
+        "Win Rate (%)":28.39,
+        "Trades":465,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":85532.49
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + LCS",
+        "Return (%)":-19.39,
+        "Win Rate (%)":28.72,
+        "Trades":470,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":80612.85
+    },
+    {
+        "Strategy":"Z_Score + Fighting + UA",
+        "Return (%)":-13.68,
+        "Win Rate (%)":27.05,
+        "Trades":499,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":86322.08
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + HMC",
+        "Return (%)":-22.56,
+        "Win Rate (%)":27.57,
+        "Trades":497,
+        "Max Drawdown (%)":-32.86,
+        "Final Equity":77440.36
+    },
+    {
+        "Strategy":"Z_Score + Fighting + HMC",
+        "Return (%)":-29.59,
+        "Win Rate (%)":28.06,
+        "Trades":499,
+        "Max Drawdown (%)":-37.08,
+        "Final Equity":70405.42
+    },
+    {
+        "Strategy":"Z_Score + Fighting + OBO",
+        "Return (%)":-12.69,
+        "Win Rate (%)":27.98,
+        "Trades":486,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":87309.83
+    },
+    {
+        "Strategy":"Z_Score + Fighting + LCS",
+        "Return (%)":-18.66,
+        "Win Rate (%)":27.66,
+        "Trades":488,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":81344.5
+    },
+    {
+        "Strategy":"Z_Score + UA + OBO",
+        "Return (%)":-21.51,
+        "Win Rate (%)":28.66,
+        "Trades":485,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":78494.09
+    },
+    {
+        "Strategy":"Z_Score + UA + LCS",
+        "Return (%)":-23.73,
+        "Win Rate (%)":27.87,
+        "Trades":488,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":76271.88
+    },
+    {
+        "Strategy":"Z_Score + UA + HMC",
+        "Return (%)":-13.44,
+        "Win Rate (%)":28.11,
+        "Trades":491,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":86555.45
+    },
+    {
+        "Strategy":"Z_Score + OBO + LCS",
+        "Return (%)":-15.88,
+        "Win Rate (%)":29.01,
+        "Trades":486,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":84120.06
+    },
+    {
+        "Strategy":"Z_Score + HMC + OBO",
+        "Return (%)":-14.54,
+        "Win Rate (%)":27.57,
+        "Trades":428,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":85456.18
+    },
+    {
+        "Strategy":"Z_Score + HMC + LCS",
+        "Return (%)":-20.83,
+        "Win Rate (%)":27.55,
+        "Trades":432,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":79169.85
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus",
+        "Return (%)":-39.83,
+        "Win Rate (%)":26.49,
+        "Trades":502,
+        "Max Drawdown (%)":-42.07,
+        "Final Equity":60170.19
+    },
+    {
+        "Strategy":"RS + TKOS + Fighting",
+        "Return (%)":-16.91,
+        "Win Rate (%)":28.25,
+        "Trades":485,
+        "Max Drawdown (%)":-32.0,
+        "Final Equity":83087.52
+    },
+    {
+        "Strategy":"RS + DTR_Plus + Fighting",
+        "Return (%)":-7.88,
+        "Win Rate (%)":27.87,
+        "Trades":470,
+        "Max Drawdown (%)":-25.94,
+        "Final Equity":92115.04
+    },
+    {
+        "Strategy":"RS + TKOS + UA",
+        "Return (%)":-42.41,
+        "Win Rate (%)":25.55,
+        "Trades":544,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":57586.53
+    },
+    {
+        "Strategy":"RS + TKOS + HMC",
+        "Return (%)":-23.45,
+        "Win Rate (%)":27.65,
+        "Trades":586,
+        "Max Drawdown (%)":-40.41,
+        "Final Equity":76549.76
+    },
+    {
+        "Strategy":"RS + TKOS + OBO",
+        "Return (%)":-44.11,
+        "Win Rate (%)":26.23,
+        "Trades":549,
+        "Max Drawdown (%)":-49.72,
+        "Final Equity":55890.96
+    },
+    {
+        "Strategy":"RS + DTR_Plus + UA",
+        "Return (%)":-10.28,
+        "Win Rate (%)":28.63,
+        "Trades":454,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":89720.01
+    },
+    {
+        "Strategy":"RS + TKOS + LCS",
+        "Return (%)":-46.29,
+        "Win Rate (%)":26.35,
+        "Trades":539,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":53711.27
+    },
+    {
+        "Strategy":"RS + DTR_Plus + HMC",
+        "Return (%)":-10.35,
+        "Win Rate (%)":27.94,
+        "Trades":476,
+        "Max Drawdown (%)":-28.13,
+        "Final Equity":89645.24
+    },
+    {
+        "Strategy":"RS + DTR_Plus + OBO",
+        "Return (%)":-5.57,
+        "Win Rate (%)":28.6,
+        "Trades":444,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":94426.42
+    },
+    {
+        "Strategy":"RS + DTR_Plus + LCS",
+        "Return (%)":-13.84,
+        "Win Rate (%)":28.44,
+        "Trades":450,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":86164.82
+    },
+    {
+        "Strategy":"RS + Fighting + UA",
+        "Return (%)":8.07,
+        "Win Rate (%)":30.15,
+        "Trades":461,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":108066.91
+    },
+    {
+        "Strategy":"RS + Fighting + OBO",
+        "Return (%)":-0.34,
+        "Win Rate (%)":29.68,
+        "Trades":465,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":99657.11
+    },
+    {
+        "Strategy":"RS + Fighting + LCS",
+        "Return (%)":11.58,
+        "Win Rate (%)":30.55,
+        "Trades":455,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":111577.82
+    },
+    {
+        "Strategy":"RS + Fighting + HMC",
+        "Return (%)":-37.71,
+        "Win Rate (%)":27.7,
+        "Trades":491,
+        "Max Drawdown (%)":-41.23,
+        "Final Equity":62285.51
+    },
+    {
+        "Strategy":"RS + UA + HMC",
+        "Return (%)":-27.5,
+        "Win Rate (%)":26.35,
+        "Trades":592,
+        "Max Drawdown (%)":-43.12,
+        "Final Equity":72498.24
+    },
+    {
+        "Strategy":"RS + UA + OBO",
+        "Return (%)":-47.01,
+        "Win Rate (%)":26.64,
+        "Trades":533,
+        "Max Drawdown (%)":-47.71,
+        "Final Equity":52994.57
+    },
+    {
+        "Strategy":"RS + UA + LCS",
+        "Return (%)":-51.79,
+        "Win Rate (%)":27.04,
+        "Trades":514,
+        "Max Drawdown (%)":-52.31,
+        "Final Equity":48207.94
+    },
+    {
+        "Strategy":"RS + HMC + OBO",
+        "Return (%)":-40.16,
+        "Win Rate (%)":25.74,
+        "Trades":544,
+        "Max Drawdown (%)":-41.05,
+        "Final Equity":59841.96
+    },
+    {
+        "Strategy":"RS + HMC + LCS",
+        "Return (%)":-44.97,
+        "Win Rate (%)":26.44,
+        "Trades":537,
+        "Max Drawdown (%)":-45.92,
+        "Final Equity":55029.79
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + Fighting",
+        "Return (%)":-30.23,
+        "Win Rate (%)":26.81,
+        "Trades":526,
+        "Max Drawdown (%)":-38.54,
+        "Final Equity":69765.99
+    },
+    {
+        "Strategy":"RS + OBO + LCS",
+        "Return (%)":-47.49,
+        "Win Rate (%)":26.82,
+        "Trades":507,
+        "Max Drawdown (%)":-51.52,
+        "Final Equity":52510.44
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + UA",
+        "Return (%)":-21.18,
+        "Win Rate (%)":28.3,
+        "Trades":523,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":78818.06
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + HMC",
+        "Return (%)":-30.42,
+        "Win Rate (%)":27.2,
+        "Trades":522,
+        "Max Drawdown (%)":-35.76,
+        "Final Equity":69581.04
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + OBO",
+        "Return (%)":-15.97,
+        "Win Rate (%)":28.04,
+        "Trades":510,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":84027.36
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + LCS",
+        "Return (%)":-7.62,
+        "Win Rate (%)":27.83,
+        "Trades":521,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":92380.64
+    },
+    {
+        "Strategy":"TKOS + Fighting + HMC",
+        "Return (%)":-30.44,
+        "Win Rate (%)":26.19,
+        "Trades":462,
+        "Max Drawdown (%)":-37.64,
+        "Final Equity":69559.83
+    },
+    {
+        "Strategy":"TKOS + Fighting + UA",
+        "Return (%)":-42.91,
+        "Win Rate (%)":27.75,
+        "Trades":519,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":57087.29
+    },
+    {
+        "Strategy":"TKOS + Fighting + OBO",
+        "Return (%)":-31.79,
+        "Win Rate (%)":28.22,
+        "Trades":535,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":68209.18
+    },
+    {
+        "Strategy":"TKOS + Fighting + LCS",
+        "Return (%)":-40.11,
+        "Win Rate (%)":27.65,
+        "Trades":510,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":59886.84
+    },
+    {
+        "Strategy":"TKOS + UA + LCS",
+        "Return (%)":-16.59,
+        "Win Rate (%)":25.0,
+        "Trades":148,
+        "Max Drawdown (%)":-20.48,
+        "Final Equity":83406.1
+    },
+    {
+        "Strategy":"TKOS + UA + OBO",
+        "Return (%)":15.53,
+        "Win Rate (%)":29.44,
+        "Trades":197,
+        "Max Drawdown (%)":-11.78,
+        "Final Equity":115526.43
+    },
+    {
+        "Strategy":"TKOS + UA + HMC",
+        "Return (%)":-24.52,
+        "Win Rate (%)":25.81,
+        "Trades":616,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":75478.56
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + UA",
+        "Return (%)":-8.9,
+        "Win Rate (%)":28.87,
+        "Trades":471,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":91098.42
+    },
+    {
+        "Strategy":"TKOS + HMC + OBO",
+        "Return (%)":-33.51,
+        "Win Rate (%)":24.74,
+        "Trades":582,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":66492.59
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + HMC",
+        "Return (%)":-18.75,
+        "Win Rate (%)":27.68,
+        "Trades":495,
+        "Max Drawdown (%)":-33.41,
+        "Final Equity":81246.08
+    },
+    {
+        "Strategy":"TKOS + HMC + LCS",
+        "Return (%)":-28.88,
+        "Win Rate (%)":25.08,
+        "Trades":590,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":71115.63
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + OBO",
+        "Return (%)":-11.47,
+        "Win Rate (%)":28.96,
+        "Trades":473,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":88525.11
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + LCS",
+        "Return (%)":-7.89,
+        "Win Rate (%)":28.96,
+        "Trades":473,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":92113.01
+    },
+    {
+        "Strategy":"DTR_Plus + UA + OBO",
+        "Return (%)":-11.44,
+        "Win Rate (%)":28.63,
+        "Trades":524,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":88556.26
+    },
+    {
+        "Strategy":"TKOS + OBO + LCS",
+        "Return (%)":-8.68,
+        "Win Rate (%)":28.7,
+        "Trades":216,
+        "Max Drawdown (%)":-15.05,
+        "Final Equity":91319.15
+    },
+    {
+        "Strategy":"DTR_Plus + UA + HMC",
+        "Return (%)":-32.58,
+        "Win Rate (%)":26.89,
+        "Trades":476,
+        "Max Drawdown (%)":-33.97,
+        "Final Equity":67421.09
+    },
+    {
+        "Strategy":"DTR_Plus + UA + LCS",
+        "Return (%)":-10.76,
+        "Win Rate (%)":28.52,
+        "Trades":526,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":89235.86
+    },
+    {
+        "Strategy":"DTR_Plus + OBO + LCS",
+        "Return (%)":-2.3,
+        "Win Rate (%)":29.17,
+        "Trades":521,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":97696.37
+    },
+    {
+        "Strategy":"DTR_Plus + HMC + OBO",
+        "Return (%)":-20.7,
+        "Win Rate (%)":27.62,
+        "Trades":478,
+        "Max Drawdown (%)":-29.58,
+        "Final Equity":79295.11
+    },
+    {
+        "Strategy":"Fighting + UA + OBO",
+        "Return (%)":-6.08,
+        "Win Rate (%)":29.78,
+        "Trades":507,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":93917.79
+    },
+    {
+        "Strategy":"Fighting + UA + HMC",
+        "Return (%)":-41.24,
+        "Win Rate (%)":25.21,
+        "Trades":468,
+        "Max Drawdown (%)":-41.24,
+        "Final Equity":58756.78
+    },
+    {
+        "Strategy":"DTR_Plus + HMC + LCS",
+        "Return (%)":-22.4,
+        "Win Rate (%)":27.97,
+        "Trades":479,
+        "Max Drawdown (%)":-29.58,
+        "Final Equity":77599.36
+    },
+    {
+        "Strategy":"Fighting + UA + LCS",
+        "Return (%)":-25.88,
+        "Win Rate (%)":28.66,
+        "Trades":492,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":74118.76
+    },
+    {
+        "Strategy":"Fighting + HMC + OBO",
+        "Return (%)":-33.33,
+        "Win Rate (%)":26.29,
+        "Trades":502,
+        "Max Drawdown (%)":-39.39,
+        "Final Equity":66671.72
+    },
+    {
+        "Strategy":"Fighting + OBO + LCS",
+        "Return (%)":-18.19,
+        "Win Rate (%)":29.08,
+        "Trades":509,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":81807.44
+    },
+    {
+        "Strategy":"Fighting + HMC + LCS",
+        "Return (%)":-35.91,
+        "Win Rate (%)":25.73,
+        "Trades":482,
+        "Max Drawdown (%)":-39.39,
+        "Final Equity":64092.0
+    },
+    {
+        "Strategy":"UA + OBO + LCS",
+        "Return (%)":-4.0,
+        "Win Rate (%)":30.97,
+        "Trades":155,
+        "Max Drawdown (%)":-13.15,
+        "Final Equity":96004.97
+    },
+    {
+        "Strategy":"UA + HMC + OBO",
+        "Return (%)":-30.88,
+        "Win Rate (%)":25.0,
+        "Trades":472,
+        "Max Drawdown (%)":-38.92,
+        "Final Equity":69120.44
+    },
+    {
+        "Strategy":"UA + HMC + LCS",
+        "Return (%)":-42.17,
+        "Win Rate (%)":24.47,
+        "Trades":470,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":57827.14
+    },
+    {
+        "Strategy":"HMC + OBO + LCS",
+        "Return (%)":-21.45,
+        "Win Rate (%)":26.04,
+        "Trades":480,
+        "Max Drawdown (%)":-38.92,
+        "Final Equity":78545.35
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring",
+        "Return (%)":-22.24,
+        "Win Rate (%)":27.32,
+        "Trades":831,
+        "Max Drawdown (%)":-33.85,
+        "Final Equity":77763.53
+    },
+    {
+        "Strategy":"HLP3 + Limit + Money_Flow",
+        "Return (%)":-19.74,
+        "Win Rate (%)":28.76,
+        "Trades":817,
+        "Max Drawdown (%)":-33.85,
+        "Final Equity":80256.15
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev",
+        "Return (%)":-29.26,
+        "Win Rate (%)":26.83,
+        "Trades":872,
+        "Max Drawdown (%)":-42.85,
+        "Final Equity":70738.95
+    },
+    {
+        "Strategy":"HLP3 + Limit + UA_Weak",
+        "Return (%)":-20.33,
+        "Win Rate (%)":28.2,
+        "Trades":837,
+        "Max Drawdown (%)":-34.36,
+        "Final Equity":79670.03
+    },
+    {
+        "Strategy":"HLP3 + Limit + Limit_Open",
+        "Return (%)":-29.05,
+        "Win Rate (%)":27.56,
+        "Trades":820,
+        "Max Drawdown (%)":-41.12,
+        "Final Equity":70954.68
+    },
+    {
+        "Strategy":"HLP3 + Limit + Pinbar",
+        "Return (%)":-56.36,
+        "Win Rate (%)":27.1,
+        "Trades":856,
+        "Max Drawdown (%)":-61.66,
+        "Final Equity":43640.29
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Pinbar",
+        "Return (%)":-46.76,
+        "Win Rate (%)":28.27,
+        "Trades":1008,
+        "Max Drawdown (%)":-52.88,
+        "Final Equity":53243.52
+    },
+    {
+        "Strategy":"HLP3 + Limit + Double_Vol",
+        "Return (%)":-65.9,
+        "Win Rate (%)":26.34,
+        "Trades":805,
+        "Max Drawdown (%)":-70.51,
+        "Final Equity":34095.0
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring",
+        "Return (%)":-26.77,
+        "Win Rate (%)":28.43,
+        "Trades":830,
+        "Max Drawdown (%)":-30.55,
+        "Final Equity":73228.24
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Money_Flow",
+        "Return (%)":-32.77,
+        "Win Rate (%)":27.48,
+        "Trades":837,
+        "Max Drawdown (%)":-37.75,
+        "Final Equity":67225.62
+    },
+    {
+        "Strategy":"HLP3 + Spring + Pinbar",
+        "Return (%)":-43.05,
+        "Win Rate (%)":28.38,
+        "Trades":983,
+        "Max Drawdown (%)":-49.64,
+        "Final Equity":56948.37
+    },
+    {
+        "Strategy":"HLP3 + Spring + Money_Flow",
+        "Return (%)":-18.76,
+        "Win Rate (%)":25.8,
+        "Trades":531,
+        "Max Drawdown (%)":-22.34,
+        "Final Equity":81236.3
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Double_Vol",
+        "Return (%)":-56.08,
+        "Win Rate (%)":26.47,
+        "Trades":865,
+        "Max Drawdown (%)":-61.87,
+        "Final Equity":43919.47
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + UA_Weak",
+        "Return (%)":-42.49,
+        "Win Rate (%)":28.47,
+        "Trades":808,
+        "Max Drawdown (%)":-45.99,
+        "Final Equity":57508.76
+    },
+    {
+        "Strategy":"HLP3 + Spring + UA_Weak",
+        "Return (%)":-37.01,
+        "Win Rate (%)":26.45,
+        "Trades":533,
+        "Max Drawdown (%)":-37.64,
+        "Final Equity":62988.13
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Limit_Open",
+        "Return (%)":-28.69,
+        "Win Rate (%)":28.26,
+        "Trades":821,
+        "Max Drawdown (%)":-32.81,
+        "Final Equity":71307.21
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + UA_Weak",
+        "Return (%)":-28.09,
+        "Win Rate (%)":29.69,
+        "Trades":970,
+        "Max Drawdown (%)":-35.59,
+        "Final Equity":71905.07
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Money_Flow",
+        "Return (%)":-40.93,
+        "Win Rate (%)":29.74,
+        "Trades":1002,
+        "Max Drawdown (%)":-47.3,
+        "Final Equity":59071.64
+    },
+    {
+        "Strategy":"HLP3 + Spring + Limit_Open",
+        "Return (%)":-23.76,
+        "Win Rate (%)":26.17,
+        "Trades":493,
+        "Max Drawdown (%)":-25.23,
+        "Final Equity":76239.47
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Limit_Open",
+        "Return (%)":-36.75,
+        "Win Rate (%)":28.11,
+        "Trades":957,
+        "Max Drawdown (%)":-43.64,
+        "Final Equity":63252.79
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + UA_Weak",
+        "Return (%)":-22.71,
+        "Win Rate (%)":27.08,
+        "Trades":432,
+        "Max Drawdown (%)":-27.2,
+        "Final Equity":77289.57
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + Limit_Open",
+        "Return (%)":-11.88,
+        "Win Rate (%)":24.28,
+        "Trades":313,
+        "Max Drawdown (%)":-18.09,
+        "Final Equity":88116.43
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Double_Vol",
+        "Return (%)":-60.65,
+        "Win Rate (%)":25.49,
+        "Trades":812,
+        "Max Drawdown (%)":-66.97,
+        "Final Equity":39348.05
+    },
+    {
+        "Strategy":"HLP3 + UA_Weak + Limit_Open",
+        "Return (%)":-26.63,
+        "Win Rate (%)":25.28,
+        "Trades":360,
+        "Max Drawdown (%)":-31.35,
+        "Final Equity":73371.25
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring",
+        "Return (%)":-28.41,
+        "Win Rate (%)":27.49,
+        "Trades":844,
+        "Max Drawdown (%)":-38.0,
+        "Final Equity":71587.26
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + Double_Vol",
+        "Return (%)":-64.91,
+        "Win Rate (%)":26.33,
+        "Trades":809,
+        "Max Drawdown (%)":-70.21,
+        "Final Equity":35094.61
+    },
+    {
+        "Strategy":"HLP3 + Spring + Double_Vol",
+        "Return (%)":-59.32,
+        "Win Rate (%)":25.12,
+        "Trades":816,
+        "Max Drawdown (%)":-65.47,
+        "Final Equity":40675.74
+    },
+    {
+        "Strategy":"HLP3 + Double_Vol + Limit_Open",
+        "Return (%)":-66.0,
+        "Win Rate (%)":26.37,
+        "Trades":785,
+        "Max Drawdown (%)":-70.63,
+        "Final Equity":33995.11
+    },
+    {
+        "Strategy":"HLP3 + Double_Vol + UA_Weak",
+        "Return (%)":-59.45,
+        "Win Rate (%)":26.28,
+        "Trades":784,
+        "Max Drawdown (%)":-65.29,
+        "Final Equity":40547.88
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Money_Flow",
+        "Return (%)":-13.22,
+        "Win Rate (%)":28.34,
+        "Trades":875,
+        "Max Drawdown (%)":-35.95,
+        "Final Equity":86776.08
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + UA_Weak",
+        "Return (%)":-32.41,
+        "Win Rate (%)":26.12,
+        "Trades":846,
+        "Max Drawdown (%)":-46.11,
+        "Final Equity":67586.98
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Limit_Open",
+        "Return (%)":-26.14,
+        "Win Rate (%)":27.06,
+        "Trades":839,
+        "Max Drawdown (%)":-41.21,
+        "Final Equity":73864.84
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Pinbar",
+        "Return (%)":-48.41,
+        "Win Rate (%)":26.28,
+        "Trades":974,
+        "Max Drawdown (%)":-55.26,
+        "Final Equity":51592.92
+    },
+    {
+        "Strategy":"Limit + Spring + Money_Flow",
+        "Return (%)":-27.35,
+        "Win Rate (%)":27.04,
+        "Trades":869,
+        "Max Drawdown (%)":-42.58,
+        "Final Equity":72645.47
+    },
+    {
+        "Strategy":"Limit + Spring + Limit_Open",
+        "Return (%)":-29.25,
+        "Win Rate (%)":26.76,
+        "Trades":826,
+        "Max Drawdown (%)":-42.57,
+        "Final Equity":70748.61
+    },
+    {
+        "Strategy":"Limit + Spring + UA_Weak",
+        "Return (%)":-30.85,
+        "Win Rate (%)":26.82,
+        "Trades":824,
+        "Max Drawdown (%)":-45.51,
+        "Final Equity":69151.13
+    },
+    {
+        "Strategy":"Limit + Spring + Pinbar",
+        "Return (%)":-62.27,
+        "Win Rate (%)":25.97,
+        "Trades":874,
+        "Max Drawdown (%)":-67.2,
+        "Final Equity":37727.59
+    },
+    {
+        "Strategy":"Limit + Pinbar + Money_Flow",
+        "Return (%)":-50.62,
+        "Win Rate (%)":26.63,
+        "Trades":860,
+        "Max Drawdown (%)":-57.28,
+        "Final Equity":49384.21
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Double_Vol",
+        "Return (%)":-58.24,
+        "Win Rate (%)":26.47,
+        "Trades":869,
+        "Max Drawdown (%)":-63.83,
+        "Final Equity":41757.33
+    },
+    {
+        "Strategy":"Limit + Pinbar + UA_Weak",
+        "Return (%)":-53.33,
+        "Win Rate (%)":26.13,
+        "Trades":865,
+        "Max Drawdown (%)":-61.47,
+        "Final Equity":46665.99
+    },
+    {
+        "Strategy":"Limit + Pinbar + Double_Vol",
+        "Return (%)":-62.0,
+        "Win Rate (%)":25.69,
+        "Trades":794,
+        "Max Drawdown (%)":-68.18,
+        "Final Equity":37995.52
+    },
+    {
+        "Strategy":"Limit + Spring + Double_Vol",
+        "Return (%)":-54.31,
+        "Win Rate (%)":25.32,
+        "Trades":861,
+        "Max Drawdown (%)":-61.6,
+        "Final Equity":45690.64
+    },
+    {
+        "Strategy":"Limit + Pinbar + Limit_Open",
+        "Return (%)":-55.56,
+        "Win Rate (%)":26.02,
+        "Trades":880,
+        "Max Drawdown (%)":-61.37,
+        "Final Equity":44438.7
+    },
+    {
+        "Strategy":"Limit + Money_Flow + UA_Weak",
+        "Return (%)":-26.57,
+        "Win Rate (%)":28.18,
+        "Trades":834,
+        "Max Drawdown (%)":-40.72,
+        "Final Equity":73429.1
+    },
+    {
+        "Strategy":"Limit + Money_Flow + Limit_Open",
+        "Return (%)":-24.82,
+        "Win Rate (%)":27.88,
+        "Trades":832,
+        "Max Drawdown (%)":-41.48,
+        "Final Equity":75182.56
+    },
+    {
+        "Strategy":"Limit + UA_Weak + Limit_Open",
+        "Return (%)":-29.1,
+        "Win Rate (%)":26.78,
+        "Trades":799,
+        "Max Drawdown (%)":-45.31,
+        "Final Equity":70903.93
+    },
+    {
+        "Strategy":"Limit + Money_Flow + Double_Vol",
+        "Return (%)":-60.2,
+        "Win Rate (%)":27.31,
+        "Trades":813,
+        "Max Drawdown (%)":-66.07,
+        "Final Equity":39797.93
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Pinbar",
+        "Return (%)":-47.53,
+        "Win Rate (%)":28.72,
+        "Trades":1048,
+        "Max Drawdown (%)":-55.71,
+        "Final Equity":52468.28
+    },
+    {
+        "Strategy":"Limit + Double_Vol + Limit_Open",
+        "Return (%)":-62.87,
+        "Win Rate (%)":26.24,
+        "Trades":804,
+        "Max Drawdown (%)":-67.88,
+        "Final Equity":37133.09
+    },
+    {
+        "Strategy":"Limit + Double_Vol + UA_Weak",
+        "Return (%)":-58.32,
+        "Win Rate (%)":26.16,
+        "Trades":795,
+        "Max Drawdown (%)":-64.34,
+        "Final Equity":41680.54
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Money_Flow",
+        "Return (%)":-12.57,
+        "Win Rate (%)":29.84,
+        "Trades":925,
+        "Max Drawdown (%)":-17.96,
+        "Final Equity":87432.98
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Money_Flow",
+        "Return (%)":-43.92,
+        "Win Rate (%)":29.14,
+        "Trades":1064,
+        "Max Drawdown (%)":-52.67,
+        "Final Equity":56080.47
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + UA_Weak",
+        "Return (%)":-30.69,
+        "Win Rate (%)":30.11,
+        "Trades":857,
+        "Max Drawdown (%)":-34.54,
+        "Final Equity":69314.8
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Limit_Open",
+        "Return (%)":-16.37,
+        "Win Rate (%)":30.53,
+        "Trades":917,
+        "Max Drawdown (%)":-20.16,
+        "Final Equity":83630.09
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + UA_Weak",
+        "Return (%)":-42.28,
+        "Win Rate (%)":28.64,
+        "Trades":1037,
+        "Max Drawdown (%)":-49.1,
+        "Final Equity":57723.98
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Double_Vol",
+        "Return (%)":-62.78,
+        "Win Rate (%)":25.12,
+        "Trades":864,
+        "Max Drawdown (%)":-68.08,
+        "Final Equity":37218.45
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Limit_Open",
+        "Return (%)":-45.43,
+        "Win Rate (%)":28.34,
+        "Trades":1069,
+        "Max Drawdown (%)":-53.19,
+        "Final Equity":54565.01
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + UA_Weak",
+        "Return (%)":-39.16,
+        "Win Rate (%)":28.97,
+        "Trades":832,
+        "Max Drawdown (%)":-43.33,
+        "Final Equity":60844.42
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + Limit_Open",
+        "Return (%)":-23.68,
+        "Win Rate (%)":28.7,
+        "Trades":857,
+        "Max Drawdown (%)":-29.31,
+        "Final Equity":76317.33
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Double_Vol",
+        "Return (%)":-62.41,
+        "Win Rate (%)":25.0,
+        "Trades":824,
+        "Max Drawdown (%)":-68.07,
+        "Final Equity":37592.89
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + Double_Vol",
+        "Return (%)":-56.03,
+        "Win Rate (%)":26.1,
+        "Trades":866,
+        "Max Drawdown (%)":-62.48,
+        "Final Equity":43973.35
+    },
+    {
+        "Strategy":"Spring + Pinbar + Money_Flow",
+        "Return (%)":-47.25,
+        "Win Rate (%)":29.45,
+        "Trades":1029,
+        "Max Drawdown (%)":-53.07,
+        "Final Equity":52750.43
+    },
+    {
+        "Strategy":"RSI_Rev + UA_Weak + Limit_Open",
+        "Return (%)":-33.92,
+        "Win Rate (%)":30.11,
+        "Trades":817,
+        "Max Drawdown (%)":-37.71,
+        "Final Equity":66077.67
+    },
+    {
+        "Strategy":"RSI_Rev + Double_Vol + UA_Weak",
+        "Return (%)":-55.78,
+        "Win Rate (%)":26.38,
+        "Trades":872,
+        "Max Drawdown (%)":-61.48,
+        "Final Equity":44220.14
+    },
+    {
+        "Strategy":"Spring + Pinbar + UA_Weak",
+        "Return (%)":-49.19,
+        "Win Rate (%)":29.26,
+        "Trades":1022,
+        "Max Drawdown (%)":-55.51,
+        "Final Equity":50807.47
+    },
+    {
+        "Strategy":"Spring + Pinbar + Limit_Open",
+        "Return (%)":-46.66,
+        "Win Rate (%)":29.66,
+        "Trades":1008,
+        "Max Drawdown (%)":-52.74,
+        "Final Equity":53343.76
+    },
+    {
+        "Strategy":"RSI_Rev + Double_Vol + Limit_Open",
+        "Return (%)":-56.08,
+        "Win Rate (%)":26.47,
+        "Trades":865,
+        "Max Drawdown (%)":-61.87,
+        "Final Equity":43919.47
+    },
+    {
+        "Strategy":"Spring + Money_Flow + UA_Weak",
+        "Return (%)":-33.32,
+        "Win Rate (%)":27.07,
+        "Trades":543,
+        "Max Drawdown (%)":-37.38,
+        "Final Equity":66676.14
+    },
+    {
+        "Strategy":"Spring + Money_Flow + Limit_Open",
+        "Return (%)":-9.17,
+        "Win Rate (%)":27.95,
+        "Trades":483,
+        "Max Drawdown (%)":-15.38,
+        "Final Equity":90833.77
+    },
+    {
+        "Strategy":"Spring + Pinbar + Double_Vol",
+        "Return (%)":-61.58,
+        "Win Rate (%)":24.73,
+        "Trades":849,
+        "Max Drawdown (%)":-67.69,
+        "Final Equity":38416.66
+    },
+    {
+        "Strategy":"Spring + UA_Weak + Limit_Open",
+        "Return (%)":-34.12,
+        "Win Rate (%)":27.34,
+        "Trades":512,
+        "Max Drawdown (%)":-37.47,
+        "Final Equity":65876.34
+    },
+    {
+        "Strategy":"Spring + Money_Flow + Double_Vol",
+        "Return (%)":-54.31,
+        "Win Rate (%)":26.16,
+        "Trades":837,
+        "Max Drawdown (%)":-61.52,
+        "Final Equity":45690.7
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + UA_Weak",
+        "Return (%)":-30.92,
+        "Win Rate (%)":30.19,
+        "Trades":997,
+        "Max Drawdown (%)":-41.52,
+        "Final Equity":69077.42
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + Limit_Open",
+        "Return (%)":-35.98,
+        "Win Rate (%)":29.96,
+        "Trades":1008,
+        "Max Drawdown (%)":-43.39,
+        "Final Equity":64019.77
+    },
+    {
+        "Strategy":"Spring + Double_Vol + UA_Weak",
+        "Return (%)":-59.99,
+        "Win Rate (%)":24.91,
+        "Trades":795,
+        "Max Drawdown (%)":-65.76,
+        "Final Equity":40007.88
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + Double_Vol",
+        "Return (%)":-62.47,
+        "Win Rate (%)":26.32,
+        "Trades":794,
+        "Max Drawdown (%)":-68.41,
+        "Final Equity":37526.03
+    },
+    {
+        "Strategy":"Pinbar + Double_Vol + UA_Weak",
+        "Return (%)":-60.92,
+        "Win Rate (%)":24.78,
+        "Trades":799,
+        "Max Drawdown (%)":-66.88,
+        "Final Equity":39075.26
+    },
+    {
+        "Strategy":"Pinbar + Double_Vol + Limit_Open",
+        "Return (%)":-58.03,
+        "Win Rate (%)":26.15,
+        "Trades":780,
+        "Max Drawdown (%)":-64.53,
+        "Final Equity":41966.21
+    },
+    {
+        "Strategy":"Pinbar + UA_Weak + Limit_Open",
+        "Return (%)":-32.0,
+        "Win Rate (%)":29.46,
+        "Trades":981,
+        "Max Drawdown (%)":-42.2,
+        "Final Equity":67996.74
+    },
+    {
+        "Strategy":"Spring + Double_Vol + Limit_Open",
+        "Return (%)":-59.32,
+        "Win Rate (%)":25.12,
+        "Trades":816,
+        "Max Drawdown (%)":-65.47,
+        "Final Equity":40675.74
+    },
+    {
+        "Strategy":"Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-37.35,
+        "Win Rate (%)":25.62,
+        "Trades":324,
+        "Max Drawdown (%)":-40.02,
+        "Final Equity":62648.59
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + DTR_Plus",
+        "Return (%)":-23.71,
+        "Win Rate (%)":27.83,
+        "Trades":521,
+        "Max Drawdown (%)":-37.57,
+        "Final Equity":76288.56
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + Fighting",
+        "Return (%)":-34.6,
+        "Win Rate (%)":26.58,
+        "Trades":459,
+        "Max Drawdown (%)":-43.86,
+        "Final Equity":65400.97
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + UA",
+        "Return (%)":-30.05,
+        "Win Rate (%)":27.33,
+        "Trades":622,
+        "Max Drawdown (%)":-39.92,
+        "Final Equity":69952.4
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + HMC",
+        "Return (%)":-34.09,
+        "Win Rate (%)":26.21,
+        "Trades":496,
+        "Max Drawdown (%)":-41.29,
+        "Final Equity":65911.78
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + OBO",
+        "Return (%)":-30.84,
+        "Win Rate (%)":27.19,
+        "Trades":559,
+        "Max Drawdown (%)":-39.92,
+        "Final Equity":69164.9
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus + Fighting",
+        "Return (%)":-12.78,
+        "Win Rate (%)":29.08,
+        "Trades":478,
+        "Max Drawdown (%)":-23.79,
+        "Final Equity":87222.59
+    },
+    {
+        "Strategy":"Z_Score + RS + TKOS + LCS",
+        "Return (%)":-33.33,
+        "Win Rate (%)":27.0,
+        "Trades":563,
+        "Max Drawdown (%)":-39.92,
+        "Final Equity":66669.34
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus + UA",
+        "Return (%)":-15.16,
+        "Win Rate (%)":28.18,
+        "Trades":479,
+        "Max Drawdown (%)":-30.76,
+        "Final Equity":84840.54
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus + HMC",
+        "Return (%)":-20.0,
+        "Win Rate (%)":27.36,
+        "Trades":508,
+        "Max Drawdown (%)":-30.93,
+        "Final Equity":80000.9
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus + OBO",
+        "Return (%)":-15.07,
+        "Win Rate (%)":28.27,
+        "Trades":481,
+        "Max Drawdown (%)":-30.76,
+        "Final Equity":84934.91
+    },
+    {
+        "Strategy":"Z_Score + RS + DTR_Plus + LCS",
+        "Return (%)":-16.6,
+        "Win Rate (%)":28.39,
+        "Trades":479,
+        "Max Drawdown (%)":-30.76,
+        "Final Equity":83398.67
+    },
+    {
+        "Strategy":"Z_Score + RS + Fighting + UA",
+        "Return (%)":-15.75,
+        "Win Rate (%)":27.27,
+        "Trades":429,
+        "Max Drawdown (%)":-25.09,
+        "Final Equity":84248.86
+    },
+    {
+        "Strategy":"Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-62.48,
+        "Win Rate (%)":26.02,
+        "Trades":807,
+        "Max Drawdown (%)":-68.2,
+        "Final Equity":37524.44
+    },
+    {
+        "Strategy":"Z_Score + RS + Fighting + HMC",
+        "Return (%)":-24.45,
+        "Win Rate (%)":27.78,
+        "Trades":504,
+        "Max Drawdown (%)":-34.79,
+        "Final Equity":75548.15
+    },
+    {
+        "Strategy":"Z_Score + RS + Fighting + OBO",
+        "Return (%)":-14.41,
+        "Win Rate (%)":28.24,
+        "Trades":425,
+        "Max Drawdown (%)":-25.09,
+        "Final Equity":85593.23
+    },
+    {
+        "Strategy":"Z_Score + RS + Fighting + LCS",
+        "Return (%)":-17.68,
+        "Win Rate (%)":27.82,
+        "Trades":417,
+        "Max Drawdown (%)":-25.09,
+        "Final Equity":82323.18
+    },
+    {
+        "Strategy":"Z_Score + RS + UA + OBO",
+        "Return (%)":-22.35,
+        "Win Rate (%)":28.24,
+        "Trades":524,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":77647.63
+    },
+    {
+        "Strategy":"Z_Score + RS + UA + HMC",
+        "Return (%)":-21.75,
+        "Win Rate (%)":27.27,
+        "Trades":539,
+        "Max Drawdown (%)":-34.04,
+        "Final Equity":78245.99
+    },
+    {
+        "Strategy":"Z_Score + RS + UA + LCS",
+        "Return (%)":-23.21,
+        "Win Rate (%)":28.24,
+        "Trades":524,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":76789.04
+    },
+    {
+        "Strategy":"Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-64.86,
+        "Win Rate (%)":26.3,
+        "Trades":810,
+        "Max Drawdown (%)":-70.2,
+        "Final Equity":35137.26
+    },
+    {
+        "Strategy":"Z_Score + RS + HMC + OBO",
+        "Return (%)":-27.49,
+        "Win Rate (%)":26.58,
+        "Trades":489,
+        "Max Drawdown (%)":-34.04,
+        "Final Equity":72508.3
+    },
+    {
+        "Strategy":"Z_Score + RS + HMC + LCS",
+        "Return (%)":-32.13,
+        "Win Rate (%)":26.34,
+        "Trades":486,
+        "Max Drawdown (%)":-34.04,
+        "Final Equity":67868.22
+    },
+    {
+        "Strategy":"Z_Score + RS + OBO + LCS",
+        "Return (%)":-28.21,
+        "Win Rate (%)":28.11,
+        "Trades":523,
+        "Max Drawdown (%)":-36.38,
+        "Final Equity":71791.37
+    },
+    {
+        "Strategy":"Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-58.29,
+        "Win Rate (%)":26.26,
+        "Trades":796,
+        "Max Drawdown (%)":-64.34,
+        "Final Equity":41706.03
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus + Fighting",
+        "Return (%)":-26.41,
+        "Win Rate (%)":28.15,
+        "Trades":508,
+        "Max Drawdown (%)":-40.38,
+        "Final Equity":73592.9
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus + UA",
+        "Return (%)":-33.72,
+        "Win Rate (%)":27.84,
+        "Trades":510,
+        "Max Drawdown (%)":-42.27,
+        "Final Equity":66278.47
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus + OBO",
+        "Return (%)":-28.04,
+        "Win Rate (%)":28.43,
+        "Trades":510,
+        "Max Drawdown (%)":-42.27,
+        "Final Equity":71955.76
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus + HMC",
+        "Return (%)":-24.17,
+        "Win Rate (%)":27.34,
+        "Trades":523,
+        "Max Drawdown (%)":-38.47,
+        "Final Equity":75829.8
+    },
+    {
+        "Strategy":"Z_Score + TKOS + DTR_Plus + LCS",
+        "Return (%)":-28.2,
+        "Win Rate (%)":28.43,
+        "Trades":510,
+        "Max Drawdown (%)":-42.27,
+        "Final Equity":71799.22
+    },
+    {
+        "Strategy":"Z_Score + TKOS + Fighting + UA",
+        "Return (%)":-26.09,
+        "Win Rate (%)":27.15,
+        "Trades":534,
+        "Max Drawdown (%)":-34.6,
+        "Final Equity":73908.29
+    },
+    {
+        "Strategy":"Z_Score + TKOS + Fighting + OBO",
+        "Return (%)":-20.19,
+        "Win Rate (%)":27.36,
+        "Trades":530,
+        "Max Drawdown (%)":-34.6,
+        "Final Equity":79814.48
+    },
+    {
+        "Strategy":"Z_Score + TKOS + Fighting + HMC",
+        "Return (%)":-25.7,
+        "Win Rate (%)":28.49,
+        "Trades":537,
+        "Max Drawdown (%)":-41.21,
+        "Final Equity":74304.27
+    },
+    {
+        "Strategy":"Z_Score + TKOS + Fighting + LCS",
+        "Return (%)":-26.09,
+        "Win Rate (%)":27.15,
+        "Trades":534,
+        "Max Drawdown (%)":-34.6,
+        "Final Equity":73908.29
+    },
+    {
+        "Strategy":"Z_Score + TKOS + UA + HMC",
+        "Return (%)":-32.62,
+        "Win Rate (%)":26.46,
+        "Trades":514,
+        "Max Drawdown (%)":-36.44,
+        "Final Equity":67378.69
+    },
+    {
+        "Strategy":"Z_Score + TKOS + UA + OBO",
+        "Return (%)":-29.37,
+        "Win Rate (%)":27.47,
+        "Trades":517,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":70627.65
+    },
+    {
+        "Strategy":"Z_Score + TKOS + UA + LCS",
+        "Return (%)":-25.8,
+        "Win Rate (%)":26.69,
+        "Trades":517,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":74201.86
+    },
+    {
+        "Strategy":"Z_Score + TKOS + HMC + OBO",
+        "Return (%)":-27.54,
+        "Win Rate (%)":25.85,
+        "Trades":472,
+        "Max Drawdown (%)":-36.44,
+        "Final Equity":72463.67
+    },
+    {
+        "Strategy":"Z_Score + TKOS + HMC + LCS",
+        "Return (%)":-26.46,
+        "Win Rate (%)":25.86,
+        "Trades":464,
+        "Max Drawdown (%)":-36.57,
+        "Final Equity":73540.2
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + Fighting + UA",
+        "Return (%)":-13.52,
+        "Win Rate (%)":27.69,
+        "Trades":484,
+        "Max Drawdown (%)":-27.39,
+        "Final Equity":86477.21
+    },
+    {
+        "Strategy":"Z_Score + TKOS + OBO + LCS",
+        "Return (%)":-22.01,
+        "Win Rate (%)":27.52,
+        "Trades":516,
+        "Max Drawdown (%)":-36.62,
+        "Final Equity":77986.75
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + Fighting + HMC",
+        "Return (%)":-24.97,
+        "Win Rate (%)":27.41,
+        "Trades":518,
+        "Max Drawdown (%)":-37.26,
+        "Final Equity":75034.23
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + Fighting + OBO",
+        "Return (%)":-13.32,
+        "Win Rate (%)":29.14,
+        "Trades":477,
+        "Max Drawdown (%)":-27.39,
+        "Final Equity":86684.92
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + Fighting + LCS",
+        "Return (%)":-10.89,
+        "Win Rate (%)":29.18,
+        "Trades":473,
+        "Max Drawdown (%)":-27.39,
+        "Final Equity":89109.18
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + UA + OBO",
+        "Return (%)":-15.07,
+        "Win Rate (%)":28.39,
+        "Trades":465,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":84934.67
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + UA + HMC",
+        "Return (%)":-19.55,
+        "Win Rate (%)":27.59,
+        "Trades":493,
+        "Max Drawdown (%)":-32.86,
+        "Final Equity":80451.89
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + UA + LCS",
+        "Return (%)":-26.17,
+        "Win Rate (%)":27.78,
+        "Trades":468,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":73827.42
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + HMC + OBO",
+        "Return (%)":-17.82,
+        "Win Rate (%)":28.02,
+        "Trades":489,
+        "Max Drawdown (%)":-32.86,
+        "Final Equity":82181.21
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + HMC + LCS",
+        "Return (%)":-20.32,
+        "Win Rate (%)":27.97,
+        "Trades":497,
+        "Max Drawdown (%)":-32.86,
+        "Final Equity":79683.38
+    },
+    {
+        "Strategy":"Z_Score + DTR_Plus + OBO + LCS",
+        "Return (%)":-19.23,
+        "Win Rate (%)":28.72,
+        "Trades":470,
+        "Max Drawdown (%)":-34.47,
+        "Final Equity":80770.67
+    },
+    {
+        "Strategy":"Z_Score + Fighting + UA + HMC",
+        "Return (%)":-26.82,
+        "Win Rate (%)":28.17,
+        "Trades":497,
+        "Max Drawdown (%)":-37.08,
+        "Final Equity":73183.98
+    },
+    {
+        "Strategy":"Z_Score + Fighting + UA + OBO",
+        "Return (%)":-13.29,
+        "Win Rate (%)":27.98,
+        "Trades":486,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":86712.01
+    },
+    {
+        "Strategy":"Z_Score + Fighting + UA + LCS",
+        "Return (%)":-15.05,
+        "Win Rate (%)":27.69,
+        "Trades":484,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":84953.85
+    },
+    {
+        "Strategy":"Z_Score + Fighting + HMC + OBO",
+        "Return (%)":-28.74,
+        "Win Rate (%)":28.14,
+        "Trades":501,
+        "Max Drawdown (%)":-37.08,
+        "Final Equity":71262.41
+    },
+    {
+        "Strategy":"Z_Score + Fighting + HMC + LCS",
+        "Return (%)":-29.39,
+        "Win Rate (%)":27.98,
+        "Trades":511,
+        "Max Drawdown (%)":-37.08,
+        "Final Equity":70608.46
+    },
+    {
+        "Strategy":"Z_Score + Fighting + OBO + LCS",
+        "Return (%)":-13.13,
+        "Win Rate (%)":27.98,
+        "Trades":486,
+        "Max Drawdown (%)":-27.97,
+        "Final Equity":86869.83
+    },
+    {
+        "Strategy":"Z_Score + UA + HMC + OBO",
+        "Return (%)":-9.69,
+        "Win Rate (%)":27.7,
+        "Trades":426,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":90312.36
+    },
+    {
+        "Strategy":"Z_Score + UA + OBO + LCS",
+        "Return (%)":-15.6,
+        "Win Rate (%)":28.9,
+        "Trades":481,
+        "Max Drawdown (%)":-32.41,
+        "Final Equity":84402.94
+    },
+    {
+        "Strategy":"Z_Score + UA + HMC + LCS",
+        "Return (%)":-11.45,
+        "Win Rate (%)":27.62,
+        "Trades":420,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":88549.64
+    },
+    {
+        "Strategy":"Z_Score + HMC + OBO + LCS",
+        "Return (%)":-5.08,
+        "Win Rate (%)":28.44,
+        "Trades":436,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":94917.74
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus + Fighting",
+        "Return (%)":-32.22,
+        "Win Rate (%)":26.86,
+        "Trades":510,
+        "Max Drawdown (%)":-42.92,
+        "Final Equity":67775.72
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus + UA",
+        "Return (%)":-38.19,
+        "Win Rate (%)":25.9,
+        "Trades":502,
+        "Max Drawdown (%)":-41.89,
+        "Final Equity":61806.67
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus + OBO",
+        "Return (%)":-32.93,
+        "Win Rate (%)":26.52,
+        "Trades":494,
+        "Max Drawdown (%)":-41.89,
+        "Final Equity":67066.4
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus + HMC",
+        "Return (%)":-21.35,
+        "Win Rate (%)":27.31,
+        "Trades":531,
+        "Max Drawdown (%)":-38.47,
+        "Final Equity":78648.93
+    },
+    {
+        "Strategy":"RS + TKOS + DTR_Plus + LCS",
+        "Return (%)":-34.49,
+        "Win Rate (%)":26.47,
+        "Trades":510,
+        "Max Drawdown (%)":-41.89,
+        "Final Equity":65512.46
+    },
+    {
+        "Strategy":"RS + TKOS + Fighting + UA",
+        "Return (%)":-15.67,
+        "Win Rate (%)":28.28,
+        "Trades":495,
+        "Max Drawdown (%)":-32.0,
+        "Final Equity":84333.26
+    },
+    {
+        "Strategy":"RS + TKOS + Fighting + HMC",
+        "Return (%)":-23.79,
+        "Win Rate (%)":28.54,
+        "Trades":536,
+        "Max Drawdown (%)":-46.2,
+        "Final Equity":76205.78
+    },
+    {
+        "Strategy":"RS + TKOS + Fighting + OBO",
+        "Return (%)":-20.24,
+        "Win Rate (%)":27.79,
+        "Trades":493,
+        "Max Drawdown (%)":-32.0,
+        "Final Equity":79764.72
+    },
+    {
+        "Strategy":"RS + TKOS + Fighting + LCS",
+        "Return (%)":-17.42,
+        "Win Rate (%)":28.07,
+        "Trades":488,
+        "Max Drawdown (%)":-32.0,
+        "Final Equity":82580.89
+    },
+    {
+        "Strategy":"RS + TKOS + UA + HMC",
+        "Return (%)":-21.21,
+        "Win Rate (%)":28.12,
+        "Trades":608,
+        "Max Drawdown (%)":-40.03,
+        "Final Equity":78791.88
+    },
+    {
+        "Strategy":"RS + TKOS + UA + OBO",
+        "Return (%)":-36.32,
+        "Win Rate (%)":26.71,
+        "Trades":554,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":63684.36
+    },
+    {
+        "Strategy":"RS + TKOS + UA + LCS",
+        "Return (%)":-42.44,
+        "Win Rate (%)":26.36,
+        "Trades":535,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":57563.3
+    },
+    {
+        "Strategy":"RS + TKOS + HMC + OBO",
+        "Return (%)":-34.55,
+        "Win Rate (%)":27.13,
+        "Trades":564,
+        "Max Drawdown (%)":-40.03,
+        "Final Equity":65454.37
+    },
+    {
+        "Strategy":"RS + DTR_Plus + Fighting + UA",
+        "Return (%)":-10.57,
+        "Win Rate (%)":28.29,
+        "Trades":456,
+        "Max Drawdown (%)":-25.94,
+        "Final Equity":89432.71
+    },
+    {
+        "Strategy":"RS + TKOS + HMC + LCS",
+        "Return (%)":-41.08,
+        "Win Rate (%)":27.08,
+        "Trades":554,
+        "Max Drawdown (%)":-43.43,
+        "Final Equity":58920.58
+    },
+    {
+        "Strategy":"RS + DTR_Plus + Fighting + HMC",
+        "Return (%)":-24.34,
+        "Win Rate (%)":28.23,
+        "Trades":496,
+        "Max Drawdown (%)":-35.08,
+        "Final Equity":75664.43
+    },
+    {
+        "Strategy":"RS + DTR_Plus + Fighting + OBO",
+        "Return (%)":-11.6,
+        "Win Rate (%)":28.1,
+        "Trades":459,
+        "Max Drawdown (%)":-25.94,
+        "Final Equity":88398.81
+    },
+    {
+        "Strategy":"RS + DTR_Plus + Fighting + LCS",
+        "Return (%)":-12.03,
+        "Win Rate (%)":28.1,
+        "Trades":459,
+        "Max Drawdown (%)":-25.94,
+        "Final Equity":87967.45
+    },
+    {
+        "Strategy":"RS + TKOS + OBO + LCS",
+        "Return (%)":-40.11,
+        "Win Rate (%)":25.14,
+        "Trades":545,
+        "Max Drawdown (%)":-47.93,
+        "Final Equity":59894.54
+    },
+    {
+        "Strategy":"RS + DTR_Plus + UA + OBO",
+        "Return (%)":-11.76,
+        "Win Rate (%)":28.41,
+        "Trades":447,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":88237.1
+    },
+    {
+        "Strategy":"RS + DTR_Plus + UA + HMC",
+        "Return (%)":-16.33,
+        "Win Rate (%)":28.25,
+        "Trades":492,
+        "Max Drawdown (%)":-28.13,
+        "Final Equity":83667.72
+    },
+    {
+        "Strategy":"RS + DTR_Plus + UA + LCS",
+        "Return (%)":-12.29,
+        "Win Rate (%)":28.29,
+        "Trades":449,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":87711.09
+    },
+    {
+        "Strategy":"RS + DTR_Plus + HMC + OBO",
+        "Return (%)":-12.44,
+        "Win Rate (%)":28.43,
+        "Trades":496,
+        "Max Drawdown (%)":-28.13,
+        "Final Equity":87556.88
+    },
+    {
+        "Strategy":"RS + DTR_Plus + OBO + LCS",
+        "Return (%)":-11.17,
+        "Win Rate (%)":28.41,
+        "Trades":447,
+        "Max Drawdown (%)":-27.66,
+        "Final Equity":88834.92
+    },
+    {
+        "Strategy":"RS + DTR_Plus + HMC + LCS",
+        "Return (%)":-13.71,
+        "Win Rate (%)":28.51,
+        "Trades":498,
+        "Max Drawdown (%)":-28.13,
+        "Final Equity":86292.58
+    },
+    {
+        "Strategy":"RS + Fighting + UA + OBO",
+        "Return (%)":-0.88,
+        "Win Rate (%)":29.81,
+        "Trades":473,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":99120.05
+    },
+    {
+        "Strategy":"RS + Fighting + UA + HMC",
+        "Return (%)":-23.16,
+        "Win Rate (%)":28.16,
+        "Trades":490,
+        "Max Drawdown (%)":-41.23,
+        "Final Equity":76838.98
+    },
+    {
+        "Strategy":"RS + Fighting + UA + LCS",
+        "Return (%)":11.58,
+        "Win Rate (%)":30.55,
+        "Trades":455,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":111577.82
+    },
+    {
+        "Strategy":"RS + Fighting + HMC + OBO",
+        "Return (%)":-32.63,
+        "Win Rate (%)":28.14,
+        "Trades":494,
+        "Max Drawdown (%)":-41.23,
+        "Final Equity":67365.88
+    },
+    {
+        "Strategy":"RS + Fighting + OBO + LCS",
+        "Return (%)":-0.17,
+        "Win Rate (%)":29.98,
+        "Trades":467,
+        "Max Drawdown (%)":-22.57,
+        "Final Equity":99830.21
+    },
+    {
+        "Strategy":"RS + Fighting + HMC + LCS",
+        "Return (%)":-20.81,
+        "Win Rate (%)":28.51,
+        "Trades":491,
+        "Max Drawdown (%)":-41.23,
+        "Final Equity":79185.73
+    },
+    {
+        "Strategy":"RS + UA + HMC + OBO",
+        "Return (%)":-39.18,
+        "Win Rate (%)":25.63,
+        "Trades":554,
+        "Max Drawdown (%)":-41.02,
+        "Final Equity":60818.99
+    },
+    {
+        "Strategy":"RS + UA + HMC + LCS",
+        "Return (%)":-46.62,
+        "Win Rate (%)":26.39,
+        "Trades":538,
+        "Max Drawdown (%)":-47.42,
+        "Final Equity":53378.41
+    },
+    {
+        "Strategy":"RS + HMC + OBO + LCS",
+        "Return (%)":-39.08,
+        "Win Rate (%)":26.59,
+        "Trades":534,
+        "Max Drawdown (%)":-41.02,
+        "Final Equity":60921.98
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + Fighting + UA",
+        "Return (%)":-26.93,
+        "Win Rate (%)":26.92,
+        "Trades":520,
+        "Max Drawdown (%)":-38.54,
+        "Final Equity":73072.12
+    },
+    {
+        "Strategy":"RS + UA + OBO + LCS",
+        "Return (%)":-47.49,
+        "Win Rate (%)":26.82,
+        "Trades":507,
+        "Max Drawdown (%)":-51.52,
+        "Final Equity":52510.44
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + Fighting + HMC",
+        "Return (%)":-25.0,
+        "Win Rate (%)":27.29,
+        "Trades":513,
+        "Max Drawdown (%)":-39.24,
+        "Final Equity":74998.41
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + Fighting + OBO",
+        "Return (%)":-29.04,
+        "Win Rate (%)":27.2,
+        "Trades":522,
+        "Max Drawdown (%)":-38.54,
+        "Final Equity":70955.28
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + Fighting + LCS",
+        "Return (%)":-26.93,
+        "Win Rate (%)":26.92,
+        "Trades":520,
+        "Max Drawdown (%)":-38.54,
+        "Final Equity":73072.12
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + UA + OBO",
+        "Return (%)":-16.35,
+        "Win Rate (%)":28.12,
+        "Trades":512,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":83646.51
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + UA + HMC",
+        "Return (%)":-31.1,
+        "Win Rate (%)":27.2,
+        "Trades":522,
+        "Max Drawdown (%)":-35.76,
+        "Final Equity":68900.31
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + UA + LCS",
+        "Return (%)":-14.03,
+        "Win Rate (%)":27.84,
+        "Trades":510,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":85968.22
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + HMC + OBO",
+        "Return (%)":-27.54,
+        "Win Rate (%)":27.31,
+        "Trades":520,
+        "Max Drawdown (%)":-35.76,
+        "Final Equity":72464.6
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + HMC + LCS",
+        "Return (%)":-29.0,
+        "Win Rate (%)":27.1,
+        "Trades":524,
+        "Max Drawdown (%)":-35.76,
+        "Final Equity":71000.65
+    },
+    {
+        "Strategy":"TKOS + DTR_Plus + OBO + LCS",
+        "Return (%)":-15.97,
+        "Win Rate (%)":28.04,
+        "Trades":510,
+        "Max Drawdown (%)":-28.83,
+        "Final Equity":84027.36
+    },
+    {
+        "Strategy":"TKOS + Fighting + UA + HMC",
+        "Return (%)":-40.81,
+        "Win Rate (%)":25.37,
+        "Trades":473,
+        "Max Drawdown (%)":-42.35,
+        "Final Equity":59194.26
+    },
+    {
+        "Strategy":"TKOS + Fighting + UA + OBO",
+        "Return (%)":-28.25,
+        "Win Rate (%)":28.41,
+        "Trades":535,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":71747.76
+    },
+    {
+        "Strategy":"TKOS + Fighting + UA + LCS",
+        "Return (%)":-36.62,
+        "Win Rate (%)":27.94,
+        "Trades":519,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":63375.61
+    },
+    {
+        "Strategy":"TKOS + Fighting + HMC + OBO",
+        "Return (%)":-31.45,
+        "Win Rate (%)":26.8,
+        "Trades":500,
+        "Max Drawdown (%)":-37.64,
+        "Final Equity":68545.92
+    },
+    {
+        "Strategy":"TKOS + Fighting + HMC + LCS",
+        "Return (%)":-22.34,
+        "Win Rate (%)":26.49,
+        "Trades":487,
+        "Max Drawdown (%)":-37.64,
+        "Final Equity":77656.7
+    },
+    {
+        "Strategy":"TKOS + Fighting + OBO + LCS",
+        "Return (%)":-35.38,
+        "Win Rate (%)":27.99,
+        "Trades":536,
+        "Max Drawdown (%)":-46.38,
+        "Final Equity":64617.97
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + UA + HMC",
+        "Return (%)":-26.74,
+        "Win Rate (%)":27.17,
+        "Trades":508,
+        "Max Drawdown (%)":-33.41,
+        "Final Equity":73255.13
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + UA + OBO",
+        "Return (%)":-11.47,
+        "Win Rate (%)":28.96,
+        "Trades":473,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":88525.11
+    },
+    {
+        "Strategy":"TKOS + UA + HMC + OBO",
+        "Return (%)":-38.11,
+        "Win Rate (%)":24.4,
+        "Trades":582,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":61891.47
+    },
+    {
+        "Strategy":"TKOS + UA + OBO + LCS",
+        "Return (%)":-6.74,
+        "Win Rate (%)":29.25,
+        "Trades":212,
+        "Max Drawdown (%)":-13.49,
+        "Final Equity":93256.93
+    },
+    {
+        "Strategy":"TKOS + UA + HMC + LCS",
+        "Return (%)":-38.75,
+        "Win Rate (%)":24.66,
+        "Trades":592,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":61247.29
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + UA + LCS",
+        "Return (%)":-7.89,
+        "Win Rate (%)":28.96,
+        "Trades":473,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":92113.01
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + HMC + OBO",
+        "Return (%)":-24.37,
+        "Win Rate (%)":27.64,
+        "Trades":492,
+        "Max Drawdown (%)":-33.41,
+        "Final Equity":75630.27
+    },
+    {
+        "Strategy":"TKOS + HMC + OBO + LCS",
+        "Return (%)":-29.01,
+        "Win Rate (%)":25.47,
+        "Trades":589,
+        "Max Drawdown (%)":-44.01,
+        "Final Equity":70994.5
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + OBO + LCS",
+        "Return (%)":-8.48,
+        "Win Rate (%)":28.96,
+        "Trades":473,
+        "Max Drawdown (%)":-24.25,
+        "Final Equity":91523.83
+    },
+    {
+        "Strategy":"DTR_Plus + Fighting + HMC + LCS",
+        "Return (%)":-22.77,
+        "Win Rate (%)":27.55,
+        "Trades":490,
+        "Max Drawdown (%)":-33.41,
+        "Final Equity":77226.92
+    },
+    {
+        "Strategy":"DTR_Plus + UA + OBO + LCS",
+        "Return (%)":-12.94,
+        "Win Rate (%)":28.84,
+        "Trades":527,
+        "Max Drawdown (%)":-25.42,
+        "Final Equity":87062.92
+    },
+    {
+        "Strategy":"DTR_Plus + UA + HMC + OBO",
+        "Return (%)":-20.7,
+        "Win Rate (%)":27.62,
+        "Trades":478,
+        "Max Drawdown (%)":-29.58,
+        "Final Equity":79295.11
+    },
+    {
+        "Strategy":"DTR_Plus + UA + HMC + LCS",
+        "Return (%)":-24.87,
+        "Win Rate (%)":27.49,
+        "Trades":491,
+        "Max Drawdown (%)":-29.58,
+        "Final Equity":75125.03
+    },
+    {
+        "Strategy":"Fighting + UA + HMC + OBO",
+        "Return (%)":-35.76,
+        "Win Rate (%)":25.79,
+        "Trades":504,
+        "Max Drawdown (%)":-39.39,
+        "Final Equity":64244.13
+    },
+    {
+        "Strategy":"DTR_Plus + HMC + OBO + LCS",
+        "Return (%)":-18.77,
+        "Win Rate (%)":27.97,
+        "Trades":479,
+        "Max Drawdown (%)":-29.58,
+        "Final Equity":81229.53
+    },
+    {
+        "Strategy":"Fighting + UA + HMC + LCS",
+        "Return (%)":-39.01,
+        "Win Rate (%)":25.31,
+        "Trades":486,
+        "Max Drawdown (%)":-39.4,
+        "Final Equity":60990.66
+    },
+    {
+        "Strategy":"Fighting + UA + OBO + LCS",
+        "Return (%)":-14.08,
+        "Win Rate (%)":29.27,
+        "Trades":509,
+        "Max Drawdown (%)":-34.18,
+        "Final Equity":85918.46
+    },
+    {
+        "Strategy":"UA + HMC + OBO + LCS",
+        "Return (%)":-23.81,
+        "Win Rate (%)":25.93,
+        "Trades":482,
+        "Max Drawdown (%)":-38.92,
+        "Final Equity":76191.0
+    },
+    {
+        "Strategy":"Fighting + HMC + OBO + LCS",
+        "Return (%)":-45.76,
+        "Win Rate (%)":24.95,
+        "Trades":481,
+        "Max Drawdown (%)":-47.47,
+        "Final Equity":54244.93
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + Spring",
+        "Return (%)":-33.01,
+        "Win Rate (%)":26.64,
+        "Trades":882,
+        "Max Drawdown (%)":-42.34,
+        "Final Equity":66988.49
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + Money_Flow",
+        "Return (%)":-25.79,
+        "Win Rate (%)":27.05,
+        "Trades":880,
+        "Max Drawdown (%)":-39.97,
+        "Final Equity":74214.73
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + UA_Weak",
+        "Return (%)":-31.79,
+        "Win Rate (%)":26.46,
+        "Trades":858,
+        "Max Drawdown (%)":-44.82,
+        "Final Equity":68208.97
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring + Money_Flow",
+        "Return (%)":-24.09,
+        "Win Rate (%)":26.56,
+        "Trades":847,
+        "Max Drawdown (%)":-36.87,
+        "Final Equity":75913.87
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + Limit_Open",
+        "Return (%)":-29.26,
+        "Win Rate (%)":26.83,
+        "Trades":872,
+        "Max Drawdown (%)":-42.85,
+        "Final Equity":70738.95
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + Pinbar",
+        "Return (%)":-54.06,
+        "Win Rate (%)":27.07,
+        "Trades":931,
+        "Max Drawdown (%)":-60.23,
+        "Final Equity":45939.88
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring + UA_Weak",
+        "Return (%)":-28.23,
+        "Win Rate (%)":26.37,
+        "Trades":838,
+        "Max Drawdown (%)":-38.85,
+        "Final Equity":71773.94
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring + Limit_Open",
+        "Return (%)":-22.24,
+        "Win Rate (%)":27.32,
+        "Trades":831,
+        "Max Drawdown (%)":-33.85,
+        "Final Equity":77763.53
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring + Pinbar",
+        "Return (%)":-54.51,
+        "Win Rate (%)":26.15,
+        "Trades":872,
+        "Max Drawdown (%)":-62.11,
+        "Final Equity":45487.97
+    },
+    {
+        "Strategy":"HLP3 + Limit + Pinbar + Money_Flow",
+        "Return (%)":-50.98,
+        "Win Rate (%)":27.34,
+        "Trades":867,
+        "Max Drawdown (%)":-57.34,
+        "Final Equity":49015.2
+    },
+    {
+        "Strategy":"HLP3 + Limit + Pinbar + UA_Weak",
+        "Return (%)":-53.04,
+        "Win Rate (%)":26.83,
+        "Trades":861,
+        "Max Drawdown (%)":-59.7,
+        "Final Equity":46955.63
+    },
+    {
+        "Strategy":"HLP3 + Limit + Pinbar + Limit_Open",
+        "Return (%)":-56.36,
+        "Win Rate (%)":27.1,
+        "Trades":856,
+        "Max Drawdown (%)":-61.66,
+        "Final Equity":43640.29
+    },
+    {
+        "Strategy":"HLP3 + Limit + Spring + Double_Vol",
+        "Return (%)":-51.62,
+        "Win Rate (%)":25.69,
+        "Trades":864,
+        "Max Drawdown (%)":-59.28,
+        "Final Equity":48380.42
+    },
+    {
+        "Strategy":"HLP3 + Limit + RSI_Rev + Double_Vol",
+        "Return (%)":-58.24,
+        "Win Rate (%)":26.47,
+        "Trades":869,
+        "Max Drawdown (%)":-63.83,
+        "Final Equity":41757.33
+    },
+    {
+        "Strategy":"HLP3 + Limit + Pinbar + Double_Vol",
+        "Return (%)":-62.0,
+        "Win Rate (%)":25.69,
+        "Trades":794,
+        "Max Drawdown (%)":-68.18,
+        "Final Equity":37995.52
+    },
+    {
+        "Strategy":"HLP3 + Limit + Money_Flow + UA_Weak",
+        "Return (%)":-16.43,
+        "Win Rate (%)":28.83,
+        "Trades":829,
+        "Max Drawdown (%)":-31.44,
+        "Final Equity":83573.24
+    },
+    {
+        "Strategy":"HLP3 + Limit + Money_Flow + Limit_Open",
+        "Return (%)":-19.74,
+        "Win Rate (%)":28.76,
+        "Trades":817,
+        "Max Drawdown (%)":-33.85,
+        "Final Equity":80256.15
+    },
+    {
+        "Strategy":"HLP3 + Limit + UA_Weak + Limit_Open",
+        "Return (%)":-20.33,
+        "Win Rate (%)":28.2,
+        "Trades":837,
+        "Max Drawdown (%)":-34.36,
+        "Final Equity":79670.03
+    },
+    {
+        "Strategy":"HLP3 + Limit + Money_Flow + Double_Vol",
+        "Return (%)":-61.02,
+        "Win Rate (%)":26.35,
+        "Trades":831,
+        "Max Drawdown (%)":-67.52,
+        "Final Equity":38978.07
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring + Pinbar",
+        "Return (%)":-44.41,
+        "Win Rate (%)":28.73,
+        "Trades":999,
+        "Max Drawdown (%)":-51.48,
+        "Final Equity":55586.61
+    },
+    {
+        "Strategy":"HLP3 + Limit + Double_Vol + UA_Weak",
+        "Return (%)":-55.4,
+        "Win Rate (%)":26.6,
+        "Trades":812,
+        "Max Drawdown (%)":-62.3,
+        "Final Equity":44597.86
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring + Money_Flow",
+        "Return (%)":-29.85,
+        "Win Rate (%)":27.55,
+        "Trades":842,
+        "Max Drawdown (%)":-35.34,
+        "Final Equity":70147.64
+    },
+    {
+        "Strategy":"HLP3 + Limit + Double_Vol + Limit_Open",
+        "Return (%)":-65.9,
+        "Win Rate (%)":26.34,
+        "Trades":805,
+        "Max Drawdown (%)":-70.51,
+        "Final Equity":34095.0
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring + UA_Weak",
+        "Return (%)":-27.46,
+        "Win Rate (%)":29.07,
+        "Trades":836,
+        "Max Drawdown (%)":-31.23,
+        "Final Equity":72536.91
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Pinbar + Money_Flow",
+        "Return (%)":-45.01,
+        "Win Rate (%)":28.73,
+        "Trades":1013,
+        "Max Drawdown (%)":-52.14,
+        "Final Equity":54985.08
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring + Limit_Open",
+        "Return (%)":-26.77,
+        "Win Rate (%)":28.43,
+        "Trades":830,
+        "Max Drawdown (%)":-30.55,
+        "Final Equity":73228.24
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Spring + Double_Vol",
+        "Return (%)":-60.86,
+        "Win Rate (%)":25.57,
+        "Trades":880,
+        "Max Drawdown (%)":-66.44,
+        "Final Equity":39136.94
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Pinbar + UA_Weak",
+        "Return (%)":-44.02,
+        "Win Rate (%)":28.42,
+        "Trades":1017,
+        "Max Drawdown (%)":-51.56,
+        "Final Equity":55983.74
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Pinbar + Limit_Open",
+        "Return (%)":-46.76,
+        "Win Rate (%)":28.27,
+        "Trades":1008,
+        "Max Drawdown (%)":-52.88,
+        "Final Equity":53243.52
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Money_Flow + UA_Weak",
+        "Return (%)":-42.85,
+        "Win Rate (%)":28.4,
+        "Trades":831,
+        "Max Drawdown (%)":-46.54,
+        "Final Equity":57153.96
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Money_Flow + Double_Vol",
+        "Return (%)":-55.72,
+        "Win Rate (%)":25.9,
+        "Trades":865,
+        "Max Drawdown (%)":-62.22,
+        "Final Equity":44277.72
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Money_Flow + Limit_Open",
+        "Return (%)":-32.77,
+        "Win Rate (%)":27.48,
+        "Trades":837,
+        "Max Drawdown (%)":-37.75,
+        "Final Equity":67225.62
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Pinbar + Double_Vol",
+        "Return (%)":-62.72,
+        "Win Rate (%)":25.42,
+        "Trades":830,
+        "Max Drawdown (%)":-68.37,
+        "Final Equity":37281.52
+    },
+    {
+        "Strategy":"HLP3 + Spring + Pinbar + Money_Flow",
+        "Return (%)":-44.56,
+        "Win Rate (%)":29.35,
+        "Trades":995,
+        "Max Drawdown (%)":-50.49,
+        "Final Equity":55444.75
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + UA_Weak + Limit_Open",
+        "Return (%)":-42.49,
+        "Win Rate (%)":28.47,
+        "Trades":808,
+        "Max Drawdown (%)":-45.99,
+        "Final Equity":57508.76
+    },
+    {
+        "Strategy":"HLP3 + Spring + Pinbar + UA_Weak",
+        "Return (%)":-48.8,
+        "Win Rate (%)":28.62,
+        "Trades":975,
+        "Max Drawdown (%)":-54.42,
+        "Final Equity":51199.33
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Double_Vol + UA_Weak",
+        "Return (%)":-55.78,
+        "Win Rate (%)":26.38,
+        "Trades":872,
+        "Max Drawdown (%)":-61.48,
+        "Final Equity":44220.14
+    },
+    {
+        "Strategy":"HLP3 + Spring + Pinbar + Limit_Open",
+        "Return (%)":-43.05,
+        "Win Rate (%)":28.38,
+        "Trades":983,
+        "Max Drawdown (%)":-49.64,
+        "Final Equity":56948.37
+    },
+    {
+        "Strategy":"HLP3 + Spring + Money_Flow + UA_Weak",
+        "Return (%)":-28.86,
+        "Win Rate (%)":26.47,
+        "Trades":578,
+        "Max Drawdown (%)":-30.58,
+        "Final Equity":71144.83
+    },
+    {
+        "Strategy":"HLP3 + RSI_Rev + Double_Vol + Limit_Open",
+        "Return (%)":-56.08,
+        "Win Rate (%)":26.47,
+        "Trades":865,
+        "Max Drawdown (%)":-61.87,
+        "Final Equity":43919.47
+    },
+    {
+        "Strategy":"HLP3 + Spring + Pinbar + Double_Vol",
+        "Return (%)":-61.58,
+        "Win Rate (%)":24.73,
+        "Trades":849,
+        "Max Drawdown (%)":-67.69,
+        "Final Equity":38416.66
+    },
+    {
+        "Strategy":"HLP3 + Spring + Money_Flow + Limit_Open",
+        "Return (%)":-18.76,
+        "Win Rate (%)":25.8,
+        "Trades":531,
+        "Max Drawdown (%)":-22.34,
+        "Final Equity":81236.3
+    },
+    {
+        "Strategy":"HLP3 + Spring + UA_Weak + Limit_Open",
+        "Return (%)":-37.01,
+        "Win Rate (%)":26.45,
+        "Trades":533,
+        "Max Drawdown (%)":-37.64,
+        "Final Equity":62988.13
+    },
+    {
+        "Strategy":"HLP3 + Spring + Money_Flow + Double_Vol",
+        "Return (%)":-53.99,
+        "Win Rate (%)":26.11,
+        "Trades":835,
+        "Max Drawdown (%)":-61.24,
+        "Final Equity":46011.09
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Money_Flow + UA_Weak",
+        "Return (%)":-31.88,
+        "Win Rate (%)":30.4,
+        "Trades":977,
+        "Max Drawdown (%)":-39.48,
+        "Final Equity":68120.61
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Money_Flow + Limit_Open",
+        "Return (%)":-40.93,
+        "Win Rate (%)":29.74,
+        "Trades":1002,
+        "Max Drawdown (%)":-47.3,
+        "Final Equity":59071.64
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Money_Flow + Double_Vol",
+        "Return (%)":-57.45,
+        "Win Rate (%)":27.0,
+        "Trades":774,
+        "Max Drawdown (%)":-64.13,
+        "Final Equity":42547.19
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + UA_Weak + Limit_Open",
+        "Return (%)":-28.09,
+        "Win Rate (%)":29.69,
+        "Trades":970,
+        "Max Drawdown (%)":-35.59,
+        "Final Equity":71905.07
+    },
+    {
+        "Strategy":"HLP3 + Spring + Double_Vol + UA_Weak",
+        "Return (%)":-59.99,
+        "Win Rate (%)":24.91,
+        "Trades":795,
+        "Max Drawdown (%)":-65.76,
+        "Final Equity":40007.88
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Double_Vol + Limit_Open",
+        "Return (%)":-60.65,
+        "Win Rate (%)":25.49,
+        "Trades":812,
+        "Max Drawdown (%)":-66.97,
+        "Final Equity":39348.05
+    },
+    {
+        "Strategy":"HLP3 + Pinbar + Double_Vol + UA_Weak",
+        "Return (%)":-66.95,
+        "Win Rate (%)":25.4,
+        "Trades":811,
+        "Max Drawdown (%)":-71.87,
+        "Final Equity":33051.28
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-22.71,
+        "Win Rate (%)":27.08,
+        "Trades":432,
+        "Max Drawdown (%)":-27.2,
+        "Final Equity":77289.57
+    },
+    {
+        "Strategy":"HLP3 + Spring + Double_Vol + Limit_Open",
+        "Return (%)":-59.32,
+        "Win Rate (%)":25.12,
+        "Trades":816,
+        "Max Drawdown (%)":-65.47,
+        "Final Equity":40675.74
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring + Money_Flow",
+        "Return (%)":-18.06,
+        "Win Rate (%)":27.48,
+        "Trades":906,
+        "Max Drawdown (%)":-33.11,
+        "Final Equity":81935.39
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-62.48,
+        "Win Rate (%)":26.02,
+        "Trades":807,
+        "Max Drawdown (%)":-68.2,
+        "Final Equity":37524.44
+    },
+    {
+        "Strategy":"HLP3 + Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-64.91,
+        "Win Rate (%)":26.33,
+        "Trades":809,
+        "Max Drawdown (%)":-70.21,
+        "Final Equity":35094.61
+    },
+    {
+        "Strategy":"HLP3 + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-59.45,
+        "Win Rate (%)":26.28,
+        "Trades":784,
+        "Max Drawdown (%)":-65.29,
+        "Final Equity":40547.88
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring + Pinbar",
+        "Return (%)":-50.21,
+        "Win Rate (%)":26.0,
+        "Trades":977,
+        "Max Drawdown (%)":-58.35,
+        "Final Equity":49788.41
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring + UA_Weak",
+        "Return (%)":-35.41,
+        "Win Rate (%)":26.11,
+        "Trades":854,
+        "Max Drawdown (%)":-45.49,
+        "Final Equity":64590.8
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring + Limit_Open",
+        "Return (%)":-28.41,
+        "Win Rate (%)":27.49,
+        "Trades":844,
+        "Max Drawdown (%)":-38.0,
+        "Final Equity":71587.26
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Pinbar + Money_Flow",
+        "Return (%)":-45.01,
+        "Win Rate (%)":26.62,
+        "Trades":958,
+        "Max Drawdown (%)":-52.59,
+        "Final Equity":54993.13
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Pinbar + UA_Weak",
+        "Return (%)":-51.42,
+        "Win Rate (%)":25.83,
+        "Trades":964,
+        "Max Drawdown (%)":-58.1,
+        "Final Equity":48577.39
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Pinbar + Limit_Open",
+        "Return (%)":-48.41,
+        "Win Rate (%)":26.28,
+        "Trades":974,
+        "Max Drawdown (%)":-55.26,
+        "Final Equity":51592.92
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Money_Flow + UA_Weak",
+        "Return (%)":-29.79,
+        "Win Rate (%)":26.73,
+        "Trades":883,
+        "Max Drawdown (%)":-44.75,
+        "Final Equity":70209.04
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Spring + Double_Vol",
+        "Return (%)":-59.71,
+        "Win Rate (%)":25.4,
+        "Trades":866,
+        "Max Drawdown (%)":-65.65,
+        "Final Equity":40285.08
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Money_Flow + Limit_Open",
+        "Return (%)":-13.22,
+        "Win Rate (%)":28.34,
+        "Trades":875,
+        "Max Drawdown (%)":-35.95,
+        "Final Equity":86776.08
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + UA_Weak + Limit_Open",
+        "Return (%)":-32.41,
+        "Win Rate (%)":26.12,
+        "Trades":846,
+        "Max Drawdown (%)":-46.11,
+        "Final Equity":67586.98
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Money_Flow + Double_Vol",
+        "Return (%)":-54.23,
+        "Win Rate (%)":25.78,
+        "Trades":869,
+        "Max Drawdown (%)":-61.35,
+        "Final Equity":45770.54
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Pinbar + Double_Vol",
+        "Return (%)":-62.77,
+        "Win Rate (%)":25.53,
+        "Trades":842,
+        "Max Drawdown (%)":-68.22,
+        "Final Equity":37234.81
+    },
+    {
+        "Strategy":"Limit + Spring + Pinbar + Money_Flow",
+        "Return (%)":-51.29,
+        "Win Rate (%)":27.26,
+        "Trades":917,
+        "Max Drawdown (%)":-57.87,
+        "Final Equity":48708.87
+    },
+    {
+        "Strategy":"Limit + Spring + Pinbar + Double_Vol",
+        "Return (%)":-62.33,
+        "Win Rate (%)":25.48,
+        "Trades":832,
+        "Max Drawdown (%)":-68.13,
+        "Final Equity":37674.66
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Double_Vol + Limit_Open",
+        "Return (%)":-58.24,
+        "Win Rate (%)":26.47,
+        "Trades":869,
+        "Max Drawdown (%)":-63.83,
+        "Final Equity":41757.33
+    },
+    {
+        "Strategy":"Limit + Spring + Pinbar + UA_Weak",
+        "Return (%)":-64.44,
+        "Win Rate (%)":25.94,
+        "Trades":852,
+        "Max Drawdown (%)":-69.94,
+        "Final Equity":35563.15
+    },
+    {
+        "Strategy":"Limit + Spring + Pinbar + Limit_Open",
+        "Return (%)":-62.27,
+        "Win Rate (%)":25.97,
+        "Trades":874,
+        "Max Drawdown (%)":-67.2,
+        "Final Equity":37727.59
+    },
+    {
+        "Strategy":"Limit + Spring + Money_Flow + Limit_Open",
+        "Return (%)":-27.35,
+        "Win Rate (%)":27.04,
+        "Trades":869,
+        "Max Drawdown (%)":-42.58,
+        "Final Equity":72645.47
+    },
+    {
+        "Strategy":"Limit + Spring + Money_Flow + UA_Weak",
+        "Return (%)":-33.21,
+        "Win Rate (%)":26.97,
+        "Trades":875,
+        "Max Drawdown (%)":-46.8,
+        "Final Equity":66792.34
+    },
+    {
+        "Strategy":"Limit + RSI_Rev + Double_Vol + UA_Weak",
+        "Return (%)":-59.54,
+        "Win Rate (%)":26.36,
+        "Trades":861,
+        "Max Drawdown (%)":-64.87,
+        "Final Equity":40458.8
+    },
+    {
+        "Strategy":"Limit + Spring + UA_Weak + Limit_Open",
+        "Return (%)":-30.85,
+        "Win Rate (%)":26.82,
+        "Trades":824,
+        "Max Drawdown (%)":-45.51,
+        "Final Equity":69151.13
+    },
+    {
+        "Strategy":"Limit + Spring + Money_Flow + Double_Vol",
+        "Return (%)":-56.27,
+        "Win Rate (%)":25.9,
+        "Trades":888,
+        "Max Drawdown (%)":-63.18,
+        "Final Equity":43730.5
+    },
+    {
+        "Strategy":"Limit + Pinbar + Money_Flow + UA_Weak",
+        "Return (%)":-56.46,
+        "Win Rate (%)":26.08,
+        "Trades":859,
+        "Max Drawdown (%)":-62.48,
+        "Final Equity":43540.44
+    },
+    {
+        "Strategy":"Limit + Spring + Double_Vol + UA_Weak",
+        "Return (%)":-56.4,
+        "Win Rate (%)":25.43,
+        "Trades":869,
+        "Max Drawdown (%)":-63.01,
+        "Final Equity":43599.81
+    },
+    {
+        "Strategy":"Limit + Pinbar + Money_Flow + Limit_Open",
+        "Return (%)":-50.62,
+        "Win Rate (%)":26.63,
+        "Trades":860,
+        "Max Drawdown (%)":-57.28,
+        "Final Equity":49384.21
+    },
+    {
+        "Strategy":"Limit + Pinbar + Money_Flow + Double_Vol",
+        "Return (%)":-61.69,
+        "Win Rate (%)":25.47,
+        "Trades":797,
+        "Max Drawdown (%)":-67.52,
+        "Final Equity":38307.25
+    },
+    {
+        "Strategy":"Limit + Spring + Double_Vol + Limit_Open",
+        "Return (%)":-54.31,
+        "Win Rate (%)":25.32,
+        "Trades":861,
+        "Max Drawdown (%)":-61.6,
+        "Final Equity":45690.64
+    },
+    {
+        "Strategy":"Limit + Pinbar + Double_Vol + Limit_Open",
+        "Return (%)":-62.0,
+        "Win Rate (%)":25.69,
+        "Trades":794,
+        "Max Drawdown (%)":-68.18,
+        "Final Equity":37995.52
+    },
+    {
+        "Strategy":"Limit + Pinbar + UA_Weak + Limit_Open",
+        "Return (%)":-53.33,
+        "Win Rate (%)":26.13,
+        "Trades":865,
+        "Max Drawdown (%)":-61.47,
+        "Final Equity":46665.99
+    },
+    {
+        "Strategy":"Limit + Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-26.57,
+        "Win Rate (%)":28.18,
+        "Trades":834,
+        "Max Drawdown (%)":-40.72,
+        "Final Equity":73429.1
+    },
+    {
+        "Strategy":"Limit + Pinbar + Double_Vol + UA_Weak",
+        "Return (%)":-61.19,
+        "Win Rate (%)":25.35,
+        "Trades":789,
+        "Max Drawdown (%)":-67.25,
+        "Final Equity":38805.6
+    },
+    {
+        "Strategy":"Limit + Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-64.36,
+        "Win Rate (%)":26.54,
+        "Trades":829,
+        "Max Drawdown (%)":-69.5,
+        "Final Equity":35642.92
+    },
+    {
+        "Strategy":"Limit + Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-60.2,
+        "Win Rate (%)":27.31,
+        "Trades":813,
+        "Max Drawdown (%)":-66.07,
+        "Final Equity":39797.93
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Pinbar + Money_Flow",
+        "Return (%)":-48.62,
+        "Win Rate (%)":29.07,
+        "Trades":1063,
+        "Max Drawdown (%)":-55.56,
+        "Final Equity":51384.39
+    },
+    {
+        "Strategy":"Limit + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-58.32,
+        "Win Rate (%)":26.16,
+        "Trades":795,
+        "Max Drawdown (%)":-64.34,
+        "Final Equity":41680.54
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Pinbar + UA_Weak",
+        "Return (%)":-48.89,
+        "Win Rate (%)":28.63,
+        "Trades":1013,
+        "Max Drawdown (%)":-55.88,
+        "Final Equity":51110.86
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Pinbar + Limit_Open",
+        "Return (%)":-47.53,
+        "Win Rate (%)":28.72,
+        "Trades":1048,
+        "Max Drawdown (%)":-55.71,
+        "Final Equity":52468.28
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Money_Flow + UA_Weak",
+        "Return (%)":-23.24,
+        "Win Rate (%)":29.75,
+        "Trades":884,
+        "Max Drawdown (%)":-33.28,
+        "Final Equity":76760.82
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Pinbar + Double_Vol",
+        "Return (%)":-61.39,
+        "Win Rate (%)":26.02,
+        "Trades":830,
+        "Max Drawdown (%)":-67.22,
+        "Final Equity":38605.75
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Money_Flow + Limit_Open",
+        "Return (%)":-12.57,
+        "Win Rate (%)":29.84,
+        "Trades":925,
+        "Max Drawdown (%)":-17.96,
+        "Final Equity":87432.98
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Money_Flow + Double_Vol",
+        "Return (%)":-60.65,
+        "Win Rate (%)":25.06,
+        "Trades":886,
+        "Max Drawdown (%)":-66.24,
+        "Final Equity":39349.25
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + UA_Weak + Limit_Open",
+        "Return (%)":-30.69,
+        "Win Rate (%)":30.11,
+        "Trades":857,
+        "Max Drawdown (%)":-34.54,
+        "Final Equity":69314.8
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Double_Vol + UA_Weak",
+        "Return (%)":-62.99,
+        "Win Rate (%)":25.29,
+        "Trades":862,
+        "Max Drawdown (%)":-68.26,
+        "Final Equity":37012.61
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Money_Flow + UA_Weak",
+        "Return (%)":-42.44,
+        "Win Rate (%)":29.28,
+        "Trades":1052,
+        "Max Drawdown (%)":-49.92,
+        "Final Equity":57559.97
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Money_Flow + Limit_Open",
+        "Return (%)":-43.92,
+        "Win Rate (%)":29.14,
+        "Trades":1064,
+        "Max Drawdown (%)":-52.67,
+        "Final Equity":56080.47
+    },
+    {
+        "Strategy":"RSI_Rev + Spring + Double_Vol + Limit_Open",
+        "Return (%)":-62.78,
+        "Win Rate (%)":25.12,
+        "Trades":864,
+        "Max Drawdown (%)":-68.08,
+        "Final Equity":37218.45
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + UA_Weak + Limit_Open",
+        "Return (%)":-42.28,
+        "Win Rate (%)":28.64,
+        "Trades":1037,
+        "Max Drawdown (%)":-49.1,
+        "Final Equity":57723.98
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Money_Flow + Double_Vol",
+        "Return (%)":-61.28,
+        "Win Rate (%)":25.94,
+        "Trades":852,
+        "Max Drawdown (%)":-66.8,
+        "Final Equity":38715.52
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-39.16,
+        "Win Rate (%)":28.97,
+        "Trades":832,
+        "Max Drawdown (%)":-43.33,
+        "Final Equity":60844.42
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Double_Vol + UA_Weak",
+        "Return (%)":-61.69,
+        "Win Rate (%)":25.12,
+        "Trades":828,
+        "Max Drawdown (%)":-67.32,
+        "Final Equity":38308.57
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-57.33,
+        "Win Rate (%)":26.03,
+        "Trades":872,
+        "Max Drawdown (%)":-63.45,
+        "Final Equity":42672.15
+    },
+    {
+        "Strategy":"RSI_Rev + Pinbar + Double_Vol + Limit_Open",
+        "Return (%)":-62.41,
+        "Win Rate (%)":25.0,
+        "Trades":824,
+        "Max Drawdown (%)":-68.07,
+        "Final Equity":37592.89
+    },
+    {
+        "Strategy":"RSI_Rev + Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-56.03,
+        "Win Rate (%)":26.1,
+        "Trades":866,
+        "Max Drawdown (%)":-62.48,
+        "Final Equity":43973.35
+    },
+    {
+        "Strategy":"Spring + Pinbar + Money_Flow + UA_Weak",
+        "Return (%)":-45.37,
+        "Win Rate (%)":29.15,
+        "Trades":1005,
+        "Max Drawdown (%)":-53.26,
+        "Final Equity":54626.38
+    },
+    {
+        "Strategy":"Spring + Pinbar + Money_Flow + Limit_Open",
+        "Return (%)":-47.25,
+        "Win Rate (%)":29.45,
+        "Trades":1029,
+        "Max Drawdown (%)":-53.07,
+        "Final Equity":52750.43
+    },
+    {
+        "Strategy":"Spring + Pinbar + UA_Weak + Limit_Open",
+        "Return (%)":-49.19,
+        "Win Rate (%)":29.26,
+        "Trades":1022,
+        "Max Drawdown (%)":-55.51,
+        "Final Equity":50807.47
+    },
+    {
+        "Strategy":"Spring + Pinbar + Money_Flow + Double_Vol",
+        "Return (%)":-59.64,
+        "Win Rate (%)":24.62,
+        "Trades":849,
+        "Max Drawdown (%)":-65.79,
+        "Final Equity":40355.4
+    },
+    {
+        "Strategy":"RSI_Rev + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-55.78,
+        "Win Rate (%)":26.38,
+        "Trades":872,
+        "Max Drawdown (%)":-61.48,
+        "Final Equity":44220.14
+    },
+    {
+        "Strategy":"Spring + Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-33.32,
+        "Win Rate (%)":27.07,
+        "Trades":543,
+        "Max Drawdown (%)":-37.38,
+        "Final Equity":66676.14
+    },
+    {
+        "Strategy":"Spring + Pinbar + Double_Vol + UA_Weak",
+        "Return (%)":-61.26,
+        "Win Rate (%)":24.79,
+        "Trades":847,
+        "Max Drawdown (%)":-67.3,
+        "Final Equity":38741.97
+    },
+    {
+        "Strategy":"Spring + Pinbar + Double_Vol + Limit_Open",
+        "Return (%)":-61.58,
+        "Win Rate (%)":24.73,
+        "Trades":849,
+        "Max Drawdown (%)":-67.69,
+        "Final Equity":38416.66
+    },
+    {
+        "Strategy":"Spring + Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-51.02,
+        "Win Rate (%)":26.79,
+        "Trades":840,
+        "Max Drawdown (%)":-58.44,
+        "Final Equity":48979.75
+    },
+    {
+        "Strategy":"Spring + Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-54.31,
+        "Win Rate (%)":26.16,
+        "Trades":837,
+        "Max Drawdown (%)":-61.52,
+        "Final Equity":45690.7
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + UA_Weak + Limit_Open",
+        "Return (%)":-30.92,
+        "Win Rate (%)":30.19,
+        "Trades":997,
+        "Max Drawdown (%)":-41.52,
+        "Final Equity":69077.42
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + Double_Vol + UA_Weak",
+        "Return (%)":-58.54,
+        "Win Rate (%)":26.78,
+        "Trades":799,
+        "Max Drawdown (%)":-64.95,
+        "Final Equity":41455.55
+    },
+    {
+        "Strategy":"Pinbar + Money_Flow + Double_Vol + Limit_Open",
+        "Return (%)":-62.47,
+        "Win Rate (%)":26.32,
+        "Trades":794,
+        "Max Drawdown (%)":-68.41,
+        "Final Equity":37526.03
+    },
+    {
+        "Strategy":"Pinbar + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-60.92,
+        "Win Rate (%)":24.78,
+        "Trades":799,
+        "Max Drawdown (%)":-66.88,
+        "Final Equity":39075.26
+    },
+    {
+        "Strategy":"Money_Flow + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-62.48,
+        "Win Rate (%)":26.02,
+        "Trades":807,
+        "Max Drawdown (%)":-68.2,
+        "Final Equity":37524.44
+    },
+    {
+        "Strategy":"Spring + Double_Vol + UA_Weak + Limit_Open",
+        "Return (%)":-59.99,
+        "Win Rate (%)":24.91,
+        "Trades":795,
+        "Max Drawdown (%)":-65.76,
+        "Final Equity":40007.88
+    }
+]

@@ -7,7 +7,8 @@ import concurrent.futures
 from datetime import datetime
 import time
 
-DATA_DIR = "stock_app/data/market_data"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "data", "market_data")
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
