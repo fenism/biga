@@ -131,9 +131,16 @@ if 'initialized' not in st.session_state:
     st.session_state['initialized'] = True
 
 # --- Path Configuration ---
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, 'data')
-MARKET_DATA_DIR = os.path.join(DATA_DIR, 'market_data')
+# Detect if running inside Docker or local
+if os.path.exists("/app/data/market_data"):
+    # Docker path
+    BASE_DIR = "/app"
+    MARKET_DATA_DIR = "/app/data/market_data"
+else:
+    # Local path
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    DATA_DIR = os.path.join(BASE_DIR, 'data')
+    MARKET_DATA_DIR = os.path.join(DATA_DIR, 'market_data')
 
 # Ensure directories exist
 if not os.path.exists(MARKET_DATA_DIR):

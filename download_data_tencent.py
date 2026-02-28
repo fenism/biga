@@ -5,8 +5,9 @@ import concurrent.futures
 import time
 import json
 import random
+from datetime import datetime
 
-DATA_DIR = "data/market_data"
+DATA_DIR = "stock_app/data/market_data"
 if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
@@ -53,14 +54,31 @@ def download_stock_tencent(stock_info):
     # Target file
     file_path = os.path.join(DATA_DIR, f"{code}.csv")
     
-    # Check if already downloaded today? (Optional, skipping for full refresh request)
+    existing_df = None
+    last_date = ""
     
+    # Incremental check
+    if os.path.exists(file_path):
+        try:
+            existing_df = pd.read_csv(file_path)
+            if not existing_df.empty and 'date' in existing_df.columns:
+                last_date = str(existing_df['date'].iloc[-1])
+                today_str = datetime.now().strftime("%Y-%m-%d")
+                
+                # If already up to date, skip
+                if last_date == today_str:
+                    return f"Skipped {code} (Up to date)"
+        except Exception as e:
+            print(f"Error reading existing file {code}: {e}")
+            existing_df = None # Fallback to full download
+
     # Tencent API
     # qfq = forward adjusted
-    # 640 points approx 2-3 years. User needs ~400 days.
-    # Param format: code,day,,,320,qfq  (320 bars)
-    # To be safe, let's get 600 bars.
-    api_url = f"http://web.ifzq.gtimg.cn/appstock/app/fqkline/get?_var=kline_dayqfq&param={symbol},day,,,600,qfq"
+    # If incrementing, 30 points is enough for a week's gap. 
+    # If last_date exists, fetch 30, else fetch 640.
+    points = 640 if not last_date else 40
+    
+    api_url = f"http://web.ifzq.gtimg.cn/appstock/app/fqkline/get?_var=kline_dayqfq&param={symbol},day,,,{points},qfq"
     
     try:
         resp = requests.get(api_url, headers=HEADERS, timeout=5)
@@ -68,25 +86,14 @@ def download_stock_tencent(stock_info):
             return f"Error {code}: HTTP {resp.status_code}"
             
         content = resp.text
-        # content format: kline_dayqfq={"code":0,"msg":"","data":{...}}
-        # stripping variable assignment
         if "=" in content:
             json_str = content.split("=", 1)[1]
         else:
             json_str = content
             
         data = json.loads(json_str)
-        
-        # Parse logic
-        # data['data'][symbol]['day'] (legacy) or data['data'][symbol]['qfqday'] (adjusted)
-        # The param requested qfq, so look for qfqday or day.
-        
         stock_data = data.get('data', {}).get(symbol, {})
         
-        # Tencent K-line format: [date, open, close, high, low, volume, ...]
-        # date: "2023-01-01"
-        
-        # Priority: qfqday > day
         kline_list = stock_data.get('qfqday', [])
         if not kline_list:
              kline_list = stock_data.get('day', [])
@@ -94,14 +101,8 @@ def download_stock_tencent(stock_info):
         if not kline_list:
             return f"Warning {code}: No Data found"
             
-        # Convert to DataFrame
-        # Standard columns: date, open, close, high, low, volume
-        # Note: Tencent order is Date, Open, Close, High, Low, Volume
-        cols = ['date', 'open', 'close', 'high', 'low', 'volume']
-        
         records = []
         for item in kline_list:
-            # item is a list
             if len(item) < 6: continue
             record = {
                 'date': item[0],
@@ -111,23 +112,27 @@ def download_stock_tencent(stock_info):
                 'low': float(item[4]),
                 'volume': float(item[5])
             }
-            # Calculate amount/turnover if needed? Tencent doesn't provide amount directly in this simple list sometimes.
-            # We can approximate or ignore. Strategies mostly use OHLCV.
             records.append(record)
             
         if not records:
             return f"Warning {code}: Parsed Empty"
             
-        df = pd.DataFrame(records)
+        new_df = pd.DataFrame(records)
         
-        # Add required columns missing from basic Tencent K-line
+        # Merge with existing
+        if existing_df is not None:
+            df = pd.concat([existing_df, new_df]).drop_duplicates(subset=['date']).sort_values('date')
+        else:
+            df = new_df
+            
+        # Recalculate basic metrics if missing or just for safety
         df['pctChg'] = df['close'].pct_change() * 100
         df['pctChg'] = df['pctChg'].fillna(0)
-        df['amount'] = df['close'] * df['volume'] * 100 # approximate amount
+        df['amount'] = df['close'] * df['volume'] * 100 
         df['turn'] = 0.0 # placeholder
         
         df.to_csv(file_path, index=False)
-        return f"Success {code}"
+        return f"Success {code} (Incremental)" if last_date else f"Success {code} (Full)"
         
     except Exception as e:
         return f"Error {code}: {str(e)}"

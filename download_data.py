@@ -86,7 +86,16 @@ def download_stock(stock_info):
         try:
             mtime = datetime.fromtimestamp(os.path.getmtime(file_path)).date()
             if mtime == datetime.now().date():
-                return f"Skipped {code}"
+                return f"Skipped {code} - Already updated today"
+            
+            # Additional check: read the last line of CSV to see if we have enough recent data
+            existing_df = pd.read_csv(file_path)
+            if not existing_df.empty:
+                last_date_str = str(existing_df['date'].iloc[-1])
+                # Normalize date string (some are YYYY-MM-DD, some are YYYYMMDD)
+                last_date = pd.to_datetime(last_date_str).date()
+                if last_date >= datetime.now().date():
+                     return f"Skipped {code} - Data current (last: {last_date})"
         except: pass
             
     try:
