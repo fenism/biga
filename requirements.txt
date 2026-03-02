@@ -3,8 +3,10 @@ pandas
 numpy
 plotly
 akshare
+baostock
 ta-lib
 adata
+requests
 notebooklm-py
 pyarrow>=15.0.0
 google-generativeai
